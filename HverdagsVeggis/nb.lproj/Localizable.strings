@@ -1,0 +1,507 @@
+/* 
+  Localizable.strings
+  HverdagsVeggis
+
+  Created by Gudband Tandberg on 5/27/13.
+  Copyright (c) 2013 Gudband Tandberg. All rights reserved.
+*/
+
+/* Misc. strings */
+
+"hverdagsveggis" = "HverdagsVeggis";
+"hjem" = "Hjem";
+"hvaer" = "Hva er HverdagsVeggis?";
+"hvordanbruke" = "Hvordan bruke denne appen?";
+"omskaperen" = "Om skaperen";
+"veggisordbok" = "Veggisordbok";
+"forum" = "Forum";
+"deloppskrift" = "Del din oppskrift";
+"stoppeklokke" = "Veggisordbok";
+
+"oppskrifter" = "Oppskrifter";
+"frokost" = "Frokost";
+"lunsj" = "Lunsj";
+"middag" = "Middag";
+"dessert" = "Dessert";
+"ekstra" = "Ekstra";
+
+/* Tekstene i ForklaringsViewen */
+
+"hva" = "Idéen bak HverdagsVeggis er at man, for å spise mindre kjøtt, skal spise som en vegetarianer i hverdagene, og spare kjøttspisningen til helgen. For å hjelpe litt til med dette finner du her mange deilige oppskrifter til inspirasjon til menyvalg i hverdagen. \n\nOppskriftene jeg har samlet sammen representerer et bredt utvalg av smaker, både vegetarianer og veganer, men det alle har til felles er at de er enkle, raske og gode. \n\nDer det har vært behov har jeg supplert med ekstraoppskrifter som ikke nødvendigvis er 'vegetarianermat', men som kan brukes sammen med de andre oppskriftene, eller som uansett er gode næringskilder i et vegetarianerliv. Og selvom desserter stort sett er vegetarianske, så har jeg med den kategorien allikevel siden det er så godt. \n\nMen nå dukker kanskje spørsmålet opp; 'hvorfor bli hverdagsveggis?'. Det er mange gode grunner til å bli HverdagsVeggis.\n\nFor det første, fordi det er godt. I stedet for å la grønnsakene spille biroller på tallerkenen lar vi dem her spille hovedrollen. Dette åpner dørene for mange nye muligheter.\n\n For det andre, så er det sunt. 'Den som spiser gulerøtter, knekkebrød og peppernøtter, tyttebær og bjørnebær og kålrot og persille, blir så passe mett i magen, glad og lystig hele dagen og så lett i bena at han ikke kan stå stille!'\n\nFor det tredje, så er veldig mye av kjøttproduksjon på denne planeten en skammelig skikk. Ikke minst mot dyrene, men også mot naturen og til syvende og sist - menneskeheten. Derfor er det ekstra viktig at når det først er helg og du skal spise kjøtt, så sørger du for at du spiser kjøtt fra dyr som har levd under skikkelige levevilkår og er fôret opp med skikkelig mat.\n\nSist men ikke minst; fordi det kan være vanskelig å være rendyrket vegetarianer. Kjøtt er en så naturlig del av vår kulturs matvaner at det kan være vanskelig å ikke la seg friste. Det er derfor vi i HverdagsVeggis prøver å innføre et helgekompromiss!";
+
+"hvordan" = "Denne appen er ikke ment som en banebrytende introduksjon til en helt ny matvei. Tvert imot, mange av oppskriftene er simpelthen varianter av gamle klassikere eller omarbeidninger av vanlige kjøttretter. Det er meningen at oppskriftene kan 'tas med en klype salt', eller varieres til personlig smak om du vil. \n\nHvis det et sted står 'melk', eksempelvis, så oppfordrer jeg eventyrlystne på å prøve seg med mandelmelk eller rismelk, og der det står 'sjampinjong' er du hjertelig velkommen til å bruke kantareller. Mange av oppskriftene er også ment som 'mal' for en type rett, ikke som et definitivt eksempel. Når du har prøvd en oppskrift så oppfordrer jeg deg til å logge deg inn i forumet til HverdagsVeggis og diskutere opplevelsen. Mer om dette under 'Ekstra'.";
+
+/* Om skaperen teksten */
+
+"omskaperentekst" = "Hei, jeg heter Gudbrand. Jeg er ikke kokk eller ernæringsfysiolog eller kjendis. Jeg er en matematikkstudent på UiO som elsker å lage mat, spise mat og programmere. Jeg håper du liker maten og appen!";
+
+/* Veggisordboken */
+
+"ordbok" = "Oppskriftene i denne appen stammer fra områder så varierte som Kina, Midtøsten, India, Søramerika mm. Da refereres det naturligvis til ingredienser som ikke er spesielt vanlige å ha i det norske kjøkken. I tillegg så er det noe typisk 'veggismat' som ikke er allment kjent. Bor du i nærheten av en god invandrerbutikk så er det helt topp. Varer merket (*) finner du som regel i gode innvandrerbutikker.\n\nBulgur - Kjempesunt hveteprodukt som brukes mye i det midtøstenske/tyrkiske kjøkken. 17.2g protein pr 100g.(*)\n\nErnæringsgjær - eller 'nutritional yeast på engelsk er en type gjær som gir smak og næring til all mulig slags gjær. Vannskelig å beskrive; det må nesten prøves selv. \n\nFlaskegresskar - denne gresskartypen begynner sakte men sikkert å bli populær i Norge også. Proppfull av A-vitaminer og smaker kjempegodt bakt eller i supper. (*) og til tider i gode supermarkeder.\n\nGrønnkål - herlig kålvariant. Proppfull av vitaminer, jern og fiber og kjempegod smak. (*)\n\nKikerter - en helt herlig liten ert. Disse kan du få hermetisert i alle supermarkeder, men jeg anbefaler på det sterkeste å kjøpe tørkede og koke selv. Det tar jo litt tid, men det er veldig lite å gjøre. God proteinkilde. \n\nKokosolje - Kjøp 'extra virgin', det er en stor forskjell! Ikke spesielt sunt, men det hever havregrøten til utenkte nye høyder.\n\nKopp - jeg bruker begrepet kopp ganske løst i denne appen, og der det brukes er det sjelden ingredienser som MÅ være nøyaktig en kopp, hva enn det er. I tilfelle du lurte rommer 'koppen' jeg pleier å bruke 245 ml.\n\nKrydder - Det er mange gode krydder som nordmenn overser: spisskummen, gurkemeie, garam masala, koriander, karri, ++. Kjøper du disse fra invandrerbutikker får du MYE mer for pengene. Absolutt verdt det.\n\nMezze - mange av rettene i denne appen kommer fra midtøsten og derfor bruker jeg dette ordet. En mezze er en samling småretter, litt som tapas. En tommelfingerregel for et skikkelig måltid er en rett pr. person og en til bordet.\n\nPersille - 'Hva i all verden gjør persille på denne listen?', jo det er her fordi det er helt tullete å kjøpe kruspersille i potte fra ICA når du får mye bedre, større og billigere persille på enhver innvandrerbutikk.\n\nQuinoa - de små søte frøene til Quinoaplanten kalles av mange en 'superfood'. Konon-næringsrike og gode. Kan være vannskelig å få tak i, men mange helsekostbutikker pleier å ha det. Finnes i rød, svart og hvit.\n\nRissirup - naturlig søtning som erstatter sukker i mange tilfeller og setter en særegen smak i tillegg. Laget av stivelsen i ris. Finnes også i maltet variant for mer intens smak. Fåes i helsekostbutikker og noen (*).\n\nSesamolje - en helt unik olje! Litt som kokkosoljen har sesamoljen den egenskapen at den forvandler en rett fullstendig. Uungåelig i kinesiske retter. Fåes i asiatiske butikker.\n\nSitrongress - Utrolig smakrik og uungåelig i thai-retter. (*) og finnes også i gode supermarkeder.\n\nTahini - dette er malte sesamfrø. Brukes i Nord-Afrika, Hellas, Tyrkia og Midtøsten. Nøtteaktig smak som setter seg skikkelig i ganen. (*).\n\nTofu - koagulert fermentert soyabønnemasse. Klassisk veggismat grunnet det høye proteininnholdet og de mange bruksområder. Tar til seg smakene til sine omgivelser. Finnes i to forskjellige sorter her til lands: silken (myk) og vanlig (fast). Fåes i asiatiske butikker.";
+
+/* Selve oppskriftene */
+
+//Hummus = hummus
+
+"hummusnavn" = "Hummus";
+
+"hummus" = "1) Først må du tilberede kikertene. Det virker som mye arbeid, men det er absolut verdt det. Joda hummus laget av kikerter i boks er godt det også, men det kan ikke måle seg med tørkede kikerter. Skyll kikertene godt og legg dem i en bolle med vann og natron over natten. (natronen kan sløyfes, men den mykner opp ertene)\n\n2) Kok kikertene i ca. 1,5 timer, eller til de lett kan moses mellom to fingre. Hvis du vil kan du nå fjerne skallene fra ertene, men jeg pleier å hoppe over det når jeg lager hummus. \n\n3) Ha ertene sammen med resten av ingrediensene i en blender og kjør til du har en fin puré. Du må nok hjelpe til litt med en slikkepott så blenderen får skikkelig tak. Hvis det er for tykt kan du ha i litt av kokevannet.\n\n4) Bre det utover et serveringsfat, og ha over litt olivenolje. Server med ferske pitabrød.\n\nHa over en teskje malt spisskummen og fersk persille for ekstra presentasjonspoeng";
+
+"hummusing" = "kikerter, 1.5, kopp, tahini, 2, ss, sitron, 1, nil, hvitløk, 2, fedd, natron, 1, ts";
+
+"hummusintro" = "Hummus er et herlig tilbehør som er veldig fint å ha på bordet. Gjør som de i midtøsten - sett pitabrød, hummus og oliven på bordet og inviter til lønsj.";
+
+//Blåbærpai = blaapai
+
+"blaapainavn" = "Blåbær- og jordbærpai";
+
+"blaapaiing" = "blåbær, 3, dl, jordbær, 3, dl, sukker, 3, ts, paideig, 1, nil";
+
+"blaapaiintro" = "Blåbær og jordbær passer veldig godt sammen. Dette er en god pai, spis den med iskrem, eller kanskje med kokkoskremen fra 'Poire belle Hélène'-oppskriften!";
+
+"blaapai" = "1) Sett ovnen på 200 grader og forbered paideigen. Finn en standardoppskrift for søt paideig et sted og eksperimenter med appelsinskall, kardemomme, knuste valnøtter eller noe annet morsomt. Deigen kan med fordel ligge litt i kjøleskapet før du kjevler den ut.\n\n2) Kjevl ut deigen og kle en paiform. Spar på litt deig for å lage toppmønster.\n\n3) Bland forsiktig sammen kvarterte jordbær med blåbær og sukker og hell det i formen.\n\n4) Skjær deigstrimler og legg dem i et fint mønster over bærene.\n\n5) Stek midt i ovnen i 40 minutter.";
+
+//Pannekaker = pannekaker
+
+"pannekakernavn" = "Intergalaktiske pannnekaker";
+
+"pannekaker" = "1) Mos bananene i en bolle. Bland i havre til det har fått en tykk konsistens. Ha så i hvete til det er enda tykkere - omtrent som kumøkk. Bland i melken.\n\n2) Varm opp en lett smurt middels stor stekepanne og ha oppi litt røre. Bre røren utover hele pannen med jevne sirkelbevegelser. Skrap over pannekaken på kryss og tvers slik at du får et lekkert ruteemønster på toppen - dette bidrar faktisk tro det eller ei til å løfte smaksopplevelsen. Pannekakene bør fylle en middels stor panne, og være ca 5mm tykke. Stekes i ca. to minutter på hver side.\n\nServer med lønnesirup, brunost, nøtter, bær, peanøttsmør, mandelsmør eller alt sammen! Disse blir også gode med litt mandelmel eller kokkosmasse i røren";
+
+"pannekakering" = "banan(er), 2, nil, havregryn, 0.75, dl, grovt hvetemel, 0.75, dl, melk, 3, ss";
+
+"pannekakerintro" = "Disse er de beste frokostpannekakene som fins. Sunne, raske, gode og enkle. Hva mer kan du be om?";
+
+//Bananmuffins = bananmuffins
+
+"bananmuffinsnavn" = "Bananmuffins";
+
+"bananmuffins" = "1) Forvarm ovnen til 200 grader. Mos bananene i en bakebolle, og rør inn resten av ingrediensene. Disse blir kjempegode med mandel eller peanøttsmør, men hva med å prøve hasselnøtt eller cashewnøtt? \n\n2) Ha røren i ca. 9 små muffinsformer og anrett på et bakebrett. Stek i 20 min midt i ovnen og avkjøl på rist i noen minutter mens du setter på kaffen. \n\nDisse muffinsene er ganske grove, nesten midtimellom muffins og rundstykker, så de kan med fordel deles i to som et rundstykke og smøres med smør eller syltetøy eller liknende.";
+
+"bananmuffinsing" = "banan, 2, nil, grovt hvetemel, 2, dl, lønnesirup, 0.75, dl, nøttesmør, 2, ss, bakepulver, 1.5, ts";
+
+"bananmuffinsintro" = "Disse minner litt om tradisjonelt bananbrød, men her har de fått en liten veganervri. Og siden de er mye sunnere, så kan du med god samvittighet bake mange om gangen, ha dem i fryseren, og varme opp når du trenger. Jeg har noen som skal bli med meg på eksamen i min fryser nå.";
+
+//Spinatsuppe = spinatsuppe
+
+"spinatsuppenavn" = "Spinatsuppe";
+
+"spinatsuppe" = "1) Ha kokende vann og spinat i blenderen og blitz til du har en fin konsistens. Når det ser ferdig ut er det bare å helle i skåler og servere. \n\nHva med å ha i noen hvitløksfedd og litt chili for litt fiffigere smak? Eller server med kokt egg og småbrød så blir du garantert mett.";
+
+"spinatsuppeing" = "spinat, 100, g, vann, 2.5, dl, buljongterning, 0.5, nil";
+
+"spinatsuppeintro" = "Denne suppen er utrolig rask å lage. Ikke den fjongeste spinatsuppen der ute, men det enkleste er i dette tilfellet bra det også. Lønsj på 4 minutter.";
+
+//Thai Grønnsaksuppe = thaisuppe
+
+"thaisuppenavn" = "Thai grønnsakssuppe";
+
+"thaisuppe" = "1) Finhakk hvitløk, sjalottløk, ingefær, sitrongress og chili. Kutt skrelt søtpotet og flaskegresskar i terningstore terninger. Skjær halve tomater i skiver og gulroten i medaljonger.\n\n2) Ha alt i en stor gryte. Hell i kokkosmelk og vann til væsken akkuratt dekker grønnsakene. \n\n3) Del limen i 4 og skvis oppi gryta. Kok opp suppa og la den putre i ca. 30 min. La gjerne limen koke sammen med suppa. Rør inn soyasausen. \n\n4) Servér med fullkornsris for et komplett måltid. \n\nVarianter: om du mangler noen ingredienser, så er ikke det verdens undergang. Det viktigste for smakens skyld er hvitløk-sitrongress-chili-ingefær blandingen sammen med kokkosmelken. Prøv for eksempel å ha kikerter, sopp, nøtter eller spinat i. Hvis du vil ha en litt tykkere suppe så kan du jo blande inn en ss potetmel pr. liter væske.";
+
+"thaisuppeing" = "flaskegresskar, 1/4, nil, søtpotet, 1/2, nil, gulrot, 2, nil, tomater, 2, nil, sjalottløk, 1, nil, hvitløk, 2, fedd, chili, 1, nil, ingefærrot, 2, cm, sitrongress, 1, stilk, kokkosmelk, 1, boks, korianderfrø, 1, ss, lime, 1, nil, soyasaus, 3, ss";
+
+"thaisuppeintro" = "Ikke la deg lure av den lange ingredienslisten! Denne her er faktisk enklere enn den ser ut og er utrolig god. Omtrent alt arbeidet ligger i kuttingen. Etter det er det bare å vente. Lag den til en venn som er neffor, så skal du nok lure frem et smil :)";
+
+//Veggisburger = veggisburger
+
+"veggisburgering" = "sjampinjong, 100, g, shitake, 100, g, cherrytomater, 8, nil, koriander, 2, kvast(er), hummus, 1, skål, guacamole, 1, skål, småbrød, 4, nil";
+
+"veggisburgernavn" = "Veggisburger";
+
+"veggisburgerintro" = "Herlige grønnsaksburgere på en varm sommerdag? Ja takk! Denne retten kan forberedes på forhånd og settes sammen rundt piknikduken hvis du vil grille soppen";
+
+"veggisburger" = "1) Sett brøene du har lyst til å bruke i ovnen. (se 'Småbrød'-oppskriften).\n\n2) Tilbered guacamolen (finn på en oppskrift selv, eller for å gjøre det enkelt; mos en avocado) og hummusen.\n\n3) Stek soppen i smør eller olje med salt, pepper og evt. andre kryddere du måtte ønske. Hvis det skal grilles kan du lage porsjonspakker med sopp i aliminiumsfolie, med salt, pepper og olivenolje.\n\n4) Sett sammen burgeren slik: burgerbrødbunn, hummus, sopp, guacamole, cherrytomater, koriander, burgerbrødtopp. Eller så kan du sette den sammen akkurat som du vil ;)";
+
+// Stekte squashstrimler = squashstrimler
+
+"squashstrimlernavn" = "Stekte squashstrimler";
+
+"squashstrimlerintro" = "Dette er en delikat liten lunsjrett som er fin for å bruke opp det du måtte ha av grønnsaksrester i kjøleskapet. Chili og squash samarbeider godt i denne oppskriften";
+
+"squashstrimlering" = "squash, 1, nil, rød chili, 1, nil, gulerøtter, 1, nil, hvitløksfedd, 2, nil, cherrytomater, 6, nil, olivenolje, 2, ss, revet parmesan, 2, ss, basilikum, 4, kvast(er)";
+
+"squashstrimler" = "1) Høvle opp all squashen på langs med en ostehøvel. Skjær så med en kniv langs squashskivene sånn at hver squashstrimmel er omtrent som en tagliatelle.\n\n2) Skjær guleroten i tannpirkerformer og del tomatene i to. Skjær chilien i ringer, og skrap ut noen frø hvis du vil ha den litt mildere.\n\n3) Stek alt i olivenolje i en ganske varm panne i 4 minutter, helt til det begynner å dufte.\n\n4) Anrett straks i serveringsskåler og strø litt fersk basilikum og en god spiseskje parmesan i hver skål.";
+
+// Morelltertletter = morelltert (2pers)
+
+"morelltertnavn" = "Morelltertletter";
+
+"morelltertintro" = "Tertletter et et veldig fint lite ord som betyr små terter. Disse søtingene gjør med lykkelig, jeg håper de gjør deg det og. Finn en paideigoppskrift du liker og tilbered den god tid i forvegen.";
+
+"morellterting" = "moreller, 16, nil, dadler, 4, nil, vaniljepulver, 4, ts, sitronskall, 4, ts, paideig, 1, nil, créme fraiche, 2, dl, maltet rissirup, 4, ts";
+
+"morelltert" = "1) Kjevl ut paideigen og skjær ut små sirkler, som du kler muffinsformer med. \n\n2) Skjær morellene i to og pill ut stenene. Skjær dadlene i småbiter etter du har fjernet stenene deres også.\n\n3) Bland dadlene og morellene i en bolle med 1 ts vaniljesukker og 1 ts sitronskall. Ha blandingen i muffinsformene og bak på 200 grader i 20 minutter.\n\n4) Saus: en god topping til disse tertlettene får du ved å simpelthen røre sammen créme fraiche, rissirup (eller annen søtning - lønnesirup, honning) og vaniljepulver. Pynt tertlettene med revet sitronskall.\n\nVariasjoner: hvorfor ikke bruke kirsebær? eller jordbær?";
+
+// Mandel-lønne-banan is = bananis
+
+"bananisnavn" = "Mandel-lønne-banan is";
+
+"bananising" = "banan(er), 2, nil, lønnesirup, 1, dl, mandler, 1, neve";
+
+"bananisintro" = "Denne 'iskremen' er vel mer som en frossen smoothie, men en ting er sikkert, den er KJEMPEGOD. (husk å sett bananene i fryseren god tid i forvegen";
+
+"bananis" = "1) Skrell bananene og del dem i fire. Ha dem i fryseren i minst fem timer.\n\n2) Alle ingrediensene i blenderen og kjør til du har en fin puré.\n\n3) Server i skåler med noen (brente?) mandler på toppen";
+
+//Spinatravioli = ravioli
+
+"raviolinavn" = "Spinatravioli";
+
+"ravioliintro" = "Ravioli er utrolig godt og enkelt å lage. Etter du har laget denne oppskriften er det bare fantasien som setter grenser for hva slags annet fyll du kan finne på.";
+
+"ravioliing" = "spinat, 100, g, hvitløk, 2, fedd, revet ost, 50, g, smørklatt, 1, nil, cherrytomater, 8, nil, eggeplommer, 2, nil, durum-mel, 200, g";
+
+"ravioli" = "1) I en bakebolle, bland melet og eggeplommene og kna det til du får en smidig deig, som du pakker godt inn og legger i kjøleskapet. (du kan bruke vanlig fin hvete om du ikke har durum)\n\n2) Damp spinaten sammen med knuste hvitløksfedd og en klype salt over smør og vann i 4 minutter.\n\n3) Kjevl ut deigen så tynn du klarer. Skjær ut sirkler med et glass med ca. 7-10 cm diameter. 10 ravioliputer metter en middels stor person.\n\n4) Legg en spiseskje dampet spinat og en teskje revet ost på hver av sirklene. Brett så deigsirklene i to, så de ser ut som små calzoner. Press dem sammen langs kanten med en gaffel.\n\n5) Kok raviolien i salt vann i 6 minutter.\n\n6) Server i skåler med halve cherrytomater, strimlet basilikum og en glugg med olivenolje.";
+
+//Sarahs risrett = risrett
+
+"risrettnavn" = "Sarahs risrett";
+
+"risrettintro" = "Dette er en gryterett med den mest smakfulle risen du noensinne har smakt! Utrolig konsistens og smak; dette kan jeg spise masse av.";
+
+"risretting" = "ris, 1, kopp, hvitløk, 4, fedd, chili, 0.5, nil, sitrongress, 1, tomme, løk, 0.5, nil, paprika, 1, nil, aubergine, 0.5, nil, sopp, 8, nil, asparges, 10, nil, timian, 1, ss, basilikum, 1, ss, gulost, 15, skiver";
+
+"risrett" = "1) Kok opp risen til den nesten er ferdig. Sil av vannet og legg til side.\n\n2) I en stor wokgryte freses hvitløk, chili, sitrongress, løk og krydder til det er myknet. Ha i risen og stek til risen er gyllen og crispy - ikke vær redd for å svi den litt!\n\n3) Skjær aubergine, sopp og paprika i terninger og stek i olje i en ny panne i 10 min. Ha kvarterte asparges i gryten det siste stekeminuttet. Bland så grønnsakene og risen sammen i woken.\n\n4) Ha alt i en ildfast form og dekk med gulost. Stek midt i ovnen i 10 min, eller til osten er smeltet. Voilà!";
+
+
+//Havregrøt = havregrot
+
+"havregrotnavn" = "Havregrøt";
+
+"havregrotintro" = "Det finnes like mange måter å spise havregrøten sin på som det finnes havregrøtelskere. Dette er min favorittmåte - perfekt start på dagen.";
+
+"havregroting" = "havregryn, 1.5, dl, vann, 3, dl, kardemomme, 0.5, tskj, kanel, 0.5, tskj, kokosolje, 1, tskj, brunt sukker, 2, tskj, mandler, 1, neve, rosiner, 1, neve, banan, 0.5, nil";
+
+"havregrot" = "1) Kok opp havregrøten som anvist på pakken sammen med krydderet.\n\n2) Ha grøten i en skål. Lag et 'oljeøye' i grøten med kokkosoljen. Strø over sukkeret. Hiv til slutt i rosiner, mandler, og en halv skivet banan. Serveres med juice og te for en fortreffelig morgen.";
+
+//Pitabrød = pita
+"pitanavn" = "Pitabrød";
+
+"pitaintro" = "Å lage sine egne pitabrød er hundretusen ganger bedre enn å kjøpe ferdiglagde brød fra Eldorado. Disse er tyggete, varme, aromatiske og passer med alt mulig rart.";
+
+"pitaing" = "hvetemel, 7, dl, tørrgjær, 1, pk, salt, 2, tskj, lunkent vann, 3, dl";
+
+"pita" = "1) Bland sammen melet, saltet og gjæret i en bakebolle. Bland i vannet med en sleiv helt til sleiven sitter fast.\n\n2) Nå er det på tide å kna. Det er viktig å ikke undervurdere viktigheten til en skikkelig knaing. Kna den godt i minst fem minutter før du legger den tilbake i bollen. La heve i én time under klede.\n\n3) Nå kan du sette på ovnen på full guffe! Elt ut deigen nok en gang og trill ut ca. 9 boller på et bakefat. Ha over klede, og la heve i nok en halvtime.\n\n4) Klem bollene flate med hendene og ha i ovnen i ca. 4 minutter pr. omgang. Brødene burde fylle seg med en stor luftboble i midten og fylle kjøkkenet med godlukt :)";
+
+//Tabbouleh = tabbouleh
+
+"tabboulehnavn" = "Tabblouleh";
+
+"tabboulehintro" = "Dette bildet er en tabbouleh uten bulgur. Det er fint hvis du skal ha den i falaffel eller lignende, men ellers anbefaler jeg å ha i bulgur eller couscous. Da får du en herlig lunsjsaltat, eller en del av en større mezze som de spiser i midtøsten.";
+
+"tabboulehing" = "bulgur, 1.5, kopp, tomater, 6, nil, agurk, 1, nil, vårløk, 1, nil, hvitløk, 3, fedd, peppermynte, 1, ss, persille, 10, kvaster, sitron, 1, nil";
+
+"tabbouleh" = "1) (kan sløyfes) Kok opp bulguren som anvist på pakken og sett til side. \n\n2) Kutt tomat og agurk i små terninger og ha i en salatbolle. Finnhakk vårløk, og press i hvitløken. Ha i grovhakket persille. \n\n3) Press til slutt i sitron, strø over peppermynte (fersk eller tørket) og topp det hele med en god gløgg olivenolje og en teskje salt. Bland alt godt sammen med bulguren og server.";
+
+//Tahinidressing = tahini
+
+"tahininavn" = "Tahinidressing";
+
+"tahiniintro" = "Denne dressingen er uungåelig til falaffel, og smaker dessuten kjempegodt til mye mer. Prøv den for eksempel ved siden av grønnsakene, på salaten eller på brødskiven.";
+
+"tahiniing" = "tahini, 1, dl, sitroner, 2, nil, hvitløk, 3, fedd, vann, 1, dl";
+
+"tahini" = "1) Bland tahini og presset hvitløk i en skål. Skvis og bland inn sitronen litt etter litt. Legg merke til hvordan konsistensen endrer seg. Ganske kult. \n\n2) Hell så i vannet litt etter litt til du har en konsistens du er fornøyd med. Ferdig.";
+
+//Falaffel = falaffel
+
+"falaffelnavn" = "Falaffel";
+
+"falaffelintro" = "Mmmmm falaffel. Dette er noe av det beste jeg vet. Kjempemettende herlig mat som passer til hverdag og til fest. Server i en pitasandwitch som i bodene i Israel eller på tallerkenen med couscoussalat og yoghurt- eller tahinidressing";
+
+"falaffeling" = "tørkede kikerter, 2, kopper, purre, 10, cm, løk, 1, nil, chili, 1, nil, hvitløk, 5, fedd, spisskummen, 1, ss, koriander, 1, ss, salt, 2, tskj";
+
+"falaffel" = "1) Dagen før du setter i gang setter du kikertene i vann.\n\n2) Ha kikerter, løk, purre, hvitløk og chili i foodprocessoren og kjør til du har en passe fin konsistens (det skal minne litt om couscous). \n\n3) Overfør det til en bakebolle og bland i krydderet og saltet (min Israelske venn Moti sier: 'Har du ikke masse kummin, så er det ingen vits å lage falaffel').\n\n4) Form massen inn i mange kjøttbolleformede kuler, enten med en falaffelskje eller med hendene. \n\n5) Nå kommer valget: det vanlige nå er å fritere kulene, men hvis du føler deg sunn i dag, så er det ingenting i veien med å steke kulene i litt olje. I alle tilfelle skal de stekes i 4-5 minutter til de er sprø på utsiden og myke på innsiden.  \n\n6) Server for eksempel med pita, tabbouleh, tahinidressing, oliven og granatepleekstrakt. Nå skal det lukte midtøsten på kjøkket ditt!";
+
+//Marokkansk Kikertgryte = kikertgryte
+
+"kikertgrytenavn" = "Marokkansk kikertgryte";
+
+"kikertgryteintro" = "Dette er en deilig mettende kikertgryte til når du er ekstra sulten. I marokko tilbereder man retter som denne i store leiregryter over bålet. 'Tagine' heter det.";
+
+"kikertgryteing" = "kokte kikerter, 5, dl, løk, 1, nil, hvitløk, 3, fedd, aubergine, 1, nil, squash, 1, nil, spisskummen, 2, ts, koriander, 1, ts, kajennepepper, 1, ts, matyoghurt, 2, dl, peppermynte, 3, ss, revet sitronskall, 2, ts, couscous, 1, kopp";
+
+"kikertgryte" = "1) Kok tørkede kikerter som anvist på pakken eller bruk hermetiske. Kikerter dobler sitt volum fra tørket til kokt.\n\n2)Kok couscous som anvist på pakken \n\n3) Skrell og hakk løk og hvitløk. Skyll aubergine og squash og skjær i terninger. Fres løk, hvitløk, squash og aubergine i en gryte i ca. 10 minutter til det ser bra ut.\n\n4) Ha til slutt i kikertene, krydderet og en ts salt.\n\n5) Smak yoghurten til med sitron og peppermynte for en lekker dressing.\n\n6) Anrett slik på tallerkenen: et lag couscous, så grønnsaker og til slutt en dæsj dressing.";
+
+//Moossakaa = moossakaa
+
+"moossakaanavn" = "Lebanesisk moossakaa";
+
+"moossakaaintro" = "Denne retten må ikke forveksles med sin greske navnebror. Dette er en enkel liten rett bestående av kikerter i tomatsaus med fritert aubergine. Med litt pita eller salat holder den til middag, eller spis den som den er til lønsj.";
+
+"moossakaaing" = "aubergine, 1, nil, kokte kikerter, 1, kopp, plommetomater, 4, nil, tomatpuree, 2, ts, hvitløk, 2, fedd, løk, 1, liten, chili, 1, nil, tørket koriander, 1, ts, olje, 1, del";
+
+"moossakaa" = "1) Tilbered kikertene på den måten det passer deg (tørkede eller hermetiserte). 2) Mørstek skrelt og hakket hvitløk og løk i litt olivenolje. Når løken er myk har du oppi finhakket tomat. Bland inn kikerter, tomatpuree, koriander og salt og la putre i 15 min.\n\n3) Varm opp rikelig med olje i en medium gryte (enten vanlig olivenolje, eller annen nøytral vegetabilsk olje). Kutt auberginen i passe tykke strimler på langs. Når oljen er varm nok friterer du auberginen i runder til de er gylne, dette bør ta 2-3 minutter pr. side.\n\n4) Server auberginen på en seng med tomatsaus. Variasjon: hvis du føler deg sunn kan du i stedet for å fritere auberginen pensle den med olivenolje og bake i ovnen på 200 grader i 30 min. Men spør du meg, så er det ingenting som kan måle seg med fritert aubergine.";
+
+//Poire belle Hélène = poire
+
+"poirenavn" = "Poire belle Hélène";
+
+"poireintro" = "Denne varianten er langt ifra Escoffiers klassiker fra 1864, men jeg tror han allikevel ville godkjent den. Iskremen er byttet ut med kokkoskrem og pærene har fått en fiffig smaksløft. Men du får fremdeles lov til å pynte den med lilla blomster om du vil!";
+
+"poireing" = "små pærer, 2, nil, kokkosmelk, 1, boks, kanel, 1, ts, kardemomme, 1, ts, nellik, 6, knopper, sjokolade, 100, g, melk, 0.5, dl, sukker, 1, del, vann, 9, deler";
+
+"poire" = "1) Sett kokkosmelken i kjøleskapet god tid i forvegen (minst en time). Skrell pærene.\n\n2) Kok opp 9 deler vann og 1 del sukker i en gryte. Det burde være nok til å dekke pærene helt. Bland inn krydderet. Ha pærene i laken og sett til å putre i ca. 15 minutter, eller til de er helt myke men ikke går i oppløsning. (når de er ferdige kan det være en fordel om du lar dem avkjøles litt før du anretter retten)\n\n3) Når du åpner kokkosmelkboksen så skal fettet ha skilt seg fra vannet og lagt seg i toppen av boksen. Grav ut fettet med en skje og kjør det i miksmasteren sammen med vaniljesukkeret og 1 ts sukker pr. gjest. Etter noen minutter bør det være ganske luftig. Legg i kjøleskapet mens du ferdigstiller retten.\n\n4) Smelt sjokoladen sammen med melken i et vannbad (denne oppskriften bruker mye mer sjokolade enn nødvendig, men jeg regner ikke med å få noen klager for det..)\n\n5) Annrett på tallerkenen slik: ett godt lag kokkoskrem i bunn, så en kokt pære og masse sjokolade over det hele til slutt. \n\nBon Appetit!";
+
+
+//Tomat og potetcurry = tomatpotet
+
+"tomatpotetnavn" = "Tomat- og potetcurry";
+
+"tomatpotetintro" = "Nammenamm. Denne curryen er proppfull av grønnsaker og metter selv de mest sultne av de sultne. Selvom dette er Steven sin oppskrift så er det den fantastiske kokken Rick Stein som lærte oss begge det vi vet om indisk matlaging, og han fortjener derfor en liten takk. Takk.";
+
+"tomatpoteting" = "tomater, 2, nil, rødløk, 1, nil, mellomstore poteter, 4, nil, squash, 0.5, nil, kikerter, 1, boks (400g), hakkede tomater, 1, boks (400g), kokkosmelk, 1, boks (400g), rød paprika, 1, nil, gul paprika, 1, nil, chilipulver, 1, ts, sennepsfrø, 1, ss, gurkemeie, 0.5, ts, spisskummenfrø, 1, ts, korianderfrø, 1, ts, garam masala, 2, ss";
+
+"tomatpotet" = "1) Knus sennepsfrøene til en paste sammen med litt vann i en krydderknuser.\n\n2) Stek krydderet sammen med sennepspasten og en ss olje i en stor gryte i 1-2 minutter. Tilsett finhakket rødløk og finhakket fersk tomat. Reduser varmen og la putre i omtrent 10 min\n\n3) Når løken er myk, tilsetter du squash og finstrimlet paprika. La det kose seg i rundt 5 min.\n\n4) Skjær potetene i tynne skiver og tilsett det i gryten. Rør rundt for å dekke alt i krydderblandingen.\n\n5) Tilsett til slutt kokkosmelk, kikerter og bokstomat og la putre i 20-30 min eller til poteten smaker godt. \n\nServer med ris eller nan, og kanskje til og med litt chutney og en klatt yoghurt!";
+
+// Hvitløksbrød = hvitløk
+
+"hvitløknavn" = "Hvitløksbrød";
+
+"hvitløkintro" = "Dette er ikke helt alminnelige hvitløksbrød. Det er utrolig hvordan smaken endrer seg etter behandlingen de får i denne oppskriften her. Aromatisk og godt både før og under middagen. Du kan bruke hva slags brød du måtte ønske, men hva med å bruke 'småbrød' fra denne appen?";
+
+"hvitløking" = "hvitløk, 2, nil, rosmarinkvaster, 2, nil, olivenolje, 1, ss, brødstykker, 2, nil";
+
+"hvitløk" = "1) Forvarm ovnen til 220 grader.\n\n2) Skrell av det ytterste laget med skall fra hvitløkene. Feddene burde sitte godt igjen ved roten. Skjær av toppen av hvitløkene og ha over litt havsalt og litt olivenolje. Pakk hvitøkene enkeltvis inn i aliminiumsfolie og ha i ovnen i 20 min.\n\n Når hvitøken er nedkjølt er det bare å presse ut feddene på dine yndlingsbrød (ciabatta?), og smøre det ut som pålegg.";
+
+// Småbrød = småbrød
+
+"småbrødnavn" = "Småbrød";
+
+"småbrødintro" = "Dette er helt enkelt og greit noen nyttige småbrød. De er laget med bakepulver, så det går utrolig raskt. Jeg liker å bruke disse når jeg lager veggisburgere. Du kan vel finne mange andre gode formål de kan tjene.";
+
+"småbrøding" = "hvetemel, 6, dl, melk, 2, dl, egg, 1, nil, sukker, 1, ts, salt, 1, ts";
+
+"småbrød" = "1) Bland sammen de tørre ingrediensene i en bakebolle.\n\n2) Visp lett sammen melk og egg og bland deg med det tørre. Elt lett sammen til en deig.\n\n3) Sett ovnen på 220 grader mens du lar deigen hvile i 20 min.\n\n 4) Trill ut mellom 6 og 8 emner på et bakebrett og press dem ganske flate før du setter dem i ovnen. Stek i 8 minutter før du avkjøler brødene på rist.\n\nSpis dem som rundstykker eller ved siden av middagen din";
+
+//Quinoa- og granateplesalat = quinoasalat
+
+"quinoasalatnavn" = "Quinoa- og granateplesalat";
+
+"quinoasalatintro" = "Knasende smaksrik supersunn salat. La deg inspirere og bruk quinoa i dine egne kreasjoner, det kan hende du lever lenger hvis du gjør det!";
+
+"quinoasalating" = "quinoa, 2, dl, granateple, 1, nil, små reddikker, 6, nil, ruccola, 50, g, rødløk, 0.5, nil, mandler, 2, never, lime, 1, nil, olje, 1, dl, honning, 1, ss";
+
+"quinoasalat" = "1) Skåld og tørk mandlene. Rist mandlene i rundt 2 min i en varm tørr stekepanne. Sett til side.\n\n2) Kok opp quinoa som anvist på pakken. \n\n3) Finhakk løken og skjær reddikken i skiver med en ostehøvel (vær forsiktig!).\n\n4) For å lage dressingen blander du sammen olje, honning og limesaft og smaker til med salt og pepper. \n\n5) Bland alt sammen i en salatbolle; ruccola, quinoa, reddik, løk og mandler, og hell over dressingen. \n\nServer med småbrød som en lett middag eller lønsj.";
+
+//Grønnkålchips = grønnkål
+
+"grønnkålnavn" = "Grønnkål-chips";
+
+"grønnkålintro" = "Grønnkål er ikke den vanligste kålsorten her til lands, men den er veldig god og superduper-næringsrik. Disse 'chipsene' erstatter potetgullet med noe langt mer smaksrikt og sunt. Også pleier grønnkål å være superbillig.";
+
+"grønnkåling" = "grønnkål, 2, blader, olivelolje, 2, ss";
+
+"grønnkål" = "1) Forvarm ovnen til 135 grader. Rens og tørk grønnkålen godt. Skjær ut 'ryggraden' langs midten av kålbladene og riv av bladene enkeltvis.\n\n2) Ha bladene på et bakebrett med bakapapir og pensle dem med olivenolje og dryss over havsalt.\n\n3) Stek i 20 minutter. Snu bladene halvveis. Ferdig!";
+
+//Potet og reddiksalat = potetsalat
+
+"potetsalatnavn" = "Potet- og reddiksalat";
+
+"potetsalatintro" = "Dette er en vidunderlig salat. Noen ganger er en kald salat rett og slett ikke godt nok. Det er da de lune salater som denne gjør seg best. Spis den som den er til lønsj eller ha den som en del av middagen din.";
+
+"potetsalating" = "ruccola, 50, g, poteter, 3, nil, små reddikker, 8, nil, purreløk, 5, cm, revet parmesanost, 25, g";
+
+"potetsalat" = "Skjær potetene i tynne skiver og kok dem i rundt 15 min, eller til de akkurat såvidt er kokt igjennom og ikke mister formen. Sil av vannet og la potetene dampe av seg.\n\n2) Skjær reddikken i skiver med en ostehøvel (vær forsiktig!), og finhakk purreløken. Ha alle ingrediensene klare foran deg før du går videre til neste steg.\n\n3) Nå skal salaten anrettes, og dette gjøres lagvis. Ha ingrediensene i følgende rekkefølge i så mange lag du har nok til: ruccola, purre, reddik, potet, parmesan, pepper, olivenolje. Tada!";
+
+//Tofu-, sopp- og peanøttnudler = peanøttnudler
+
+"peanøttnudlernavn" = "Tofu-, sopp- og peanøttnudler";
+
+"peanøttnudlerintro" = "Dette er en spennende nuddelrett som blander mange forskjellige smaker fra mange forskjellige deler av asia. Dette er originalt min venn Steven sin oppskrift, så jeg sier som ham; varier grønnsakene etter smak.";
+
+"peanøttnudlering" = "nudler, 200, g, tofu, 100, g, østerssopp, 200, g, løk, 0.5, nil, minimais, 200, g, kokkosmelk, 1, boks (400g), peanøttsmør, 0.75, kopp, lime, 1, nil, tørkede chiliflak, 2, ts, soyasaus, 4, ss";
+
+"peanøttnudler" = "1) Varm opp en romslig wok med litt sesamolje (annen olje duger også). Skjær tofuen i terninger og ha i (den glovarme) wokken. La tofuen få en gylden knasende skorpe på alle sidene - det burde ta rundt 5 min. Ta wokkan av varmen, og la tofuen vente i en skål mens du skjærer opp grønnsakene.\n\n2) Ha alle grønnsakene i wokken og la surre i ca. 10 min, eller til løken er myk og soppen er stekt.\n\n3) Ha alle sausingrediensene (kokkosmelk, peanøttsmør, lime, soyasaus) i en kjele og varm opp til like under kokepunktet. La putre mens du koker nudlene etter anvisning på pakken.\n\n4) I det siste steget skal alle ingrediensene møtes i wokken - ha først i kokte nudler og tofu og rør godt. Hell derretter sausen over det hele og rør godt igjen. La putre til sausen tykner litt til. \n\nServer med spisepinner.";
+
+// Thai rismudler = thainudler
+
+"thainudlernavn" = "Thai risnudler";
+
+"thainudlerintro" = "Når jeg sier tofu, så får jeg som regel en av to reaksjoner: 'æsj!' eller 'å, det er interresant, men jeg vet ikke helt hva jeg skal gjøre med det..'. Denne retten er en perfekt introduksjon til deg som faller i den andre kategorien - en nydelig autentisk thailandsk risnuddelrett.";
+
+"thainudlering" = "shitake, 100, g, tofu, 100, g, risnudler, 200, g, hvitløk, 3, fedd, ingefær, 4, cm, gulrot, 1, nil, brekkbønner, 200, g, paprika, 0.5, nil, kål, 75, g, søt chilisaus, 4, ss";
+
+"thainudler" = "1) Bløtlegg risnudlene (bruk helst en tynn type som går under navnet vermicelli) i en ildfast form med varmt vann. De bør være myknet etter 5 min.\n\n2) Nå skal grønnsakene strimles. I denne retten er det viktig med tynne delikate grønnsaksstrimler. Det gjelder paprikaen, kålen og guleroten.\n\n3) Skjær tofuen i terninger og varm en wokpanne med litt olje i til den er ganske glovarm. Ha tofuen i pannen og stek godt på alle sider. Spør du meg, så ligger forskjellen på god og dårlig tofu i stekingen, så pass på at alle terningene er ordentlig godt stekt på alle sidene før du tar dem av varmen. Når tofuen er stekt kan du sette ned varmen litt og ha i finhakket hvitløk og revet ingefær. La surre i et minutt.\n\n4) Ha nå gulroten, paprikaen, soppen, og kålen (spar gjerne på litt kål til garnityr) i wokken med tofuen og stek i et par minutter. (Dette burde jeg egentlig ikke skrive i HverdagsVeggis, men hvis det tilfeldigvis er helg akkurat nå, så er dette tiden å ha noen ss fiskesaus i wokken. Og hvorfor ikke noen ts brunt sukker når vi er i gang? Eller så kan du ha noen ss soyasaus og spare fisken)\n\n5) Når grønnsakene er stekt er det bare å ha i de bløte nudlene, ha et lokk på wokken og dampe i et minutt. \n\nServer med søt chilisaus og rå kål som garnityr.";
+
+//Dandan-nudler = dandan
+
+"dandannavn" = "Dandan-nudler";
+
+"dandanintro" = "En ekte kineser ville vel ledd av meg hvis jeg påsto at dette var en skikkelig dandan-oppskrift. Men den er ihvertfall veldig inspirert av den klassiske Sichuan-retten med samme navn. Denne retten røvet jeg fra min venn Japee som hjalp meg å forelske meg i det Sichuanske kjøkken.";
+
+"dandaning" = "nudler, 50, g, squash, 4, skiver, vårløk, 1, nil, hvitløk, 1, fedd, ingefær, 1, cm, cashewnøtter, 1, neve, sesampasta, 1, ss, soyasaus, 2, ss, saltet chili, 1, ss, sesamolje, 1, ss";
+
+"dandan" = "1) Kok opp vann til nudlene. Varm en stekepanne med litt sesamolje i. Kvarter squashskivene og ha i pannen sammen med hvitløk, ingefær og den hvite delen vårløken -finhakket. Stek i 5 min til squashen er klar.\n\n2) Kok nudlene som anvist på pakken. Ha cashewnøtter og salt chili i med squashen.\n\n3) I en serveringsbolle, bland sammen sesampasta og soyasaus (hvis ikke du får tak i kinesisk sesampasta kan du fint bruke tahini - men da må du røre forsiktig så ikke tahinien stivner. Hvis den gjør det kan situasjonen reddes ved å spe på med vann). Vend så nudlene i sausen til de er godt dekket. Hell over grønnsakene og bruk den grønne delen av vårløken som garnityr. Server.\n\nNoen ord bør sies om saltet chili. Salt chili er helt vesentlig i det Sichuanske kjøkken og veldig lett å lage - jeg har hørt historier om gamle kinesere som savnet salt chili like mye som de savnet opium i nedgangstider. Menmen, alt du trenger å gjøre er å skjære store røde chilipeppere i ringer og røre godt sammen med 1-2 ts salt pr. chili. Ha i en krukke og la den ligge i kjøleskapet. Etter tre uker er de klare til hva en du måtte finne på å bruke dem til.";
+
+//Gresskarlasagne = lasagne
+
+"lasagnenavn" = "Gresskarlasagne";
+
+"lasagneintro" = "Min mor fikk to vegetarianerbarn. Dette har hun taklet veldig godt syns jeg, og denne lasagnen er blitt hennes nye spesialrett når det er veggiser på besøk. Etter å ha smakt denne så er det ikke så mange som savner kjøtt i lasagnen sin..";
+
+"lasagneing" = "medium flaskegresskar, 1, nil, rødbet, 1, nil, spinat, 250, g, hakkede tomater, 2, bokser, lasagnepasta, 6, plater, ricotta, 200, g, revet parmesanost, 50, g, revet mozzarella, 100, g, basilikum, 1, nil";
+
+"lasagne" = "1) Sett ovnen på 210 grader og bløtlegg pastaplatene i lunkent vann. Skrell rødbet og gresskar og skjær i terninger.\n\n2) Dampkok spinaten til den såvidt har falt sammen. Hvis du ikke har lett for å dampkoke så kan du også steke i en stekepanne med litt vann i.\n\n3) Nå er det på tide å sette sammen lasagnen. Ha først halvparten av gresskar- og rødbet-terningene i bunn av en ildfast form. Hell i en glugg olivenolje, og salt og pepper. Legg nå halvparten av spinaten over det, og hell over halvparten av tomatene. Dæsj godt med ricotta over hele formen. Ha så over et lokk med pastaplater. Gjenta i ett lag til, men bytt om rekkefølgen på pastaen og tomatsausen; gresskar og rødbet, spinat, ricotta, pasta, tomat. Dryss til slutt rikelig med parmesan, revet mozzarella (her kan du fint bruke vanlig gulost), basilikum (fersk eller tørket) og pepper. Nå er det klart til baking.\n\n4) Ha i ovnen i rundt 40 minutter. Det kan være en ide å ha aluminiumsfolie over lasagnen den første halvtimen, og så åpne for å brune osten til slutt. Sjekk at gresskaret er mykt før du setter den på bordet. \n\nServer med en lett salat eller godt brød (foccacia?)";
+
+//Gresskarsuppe = gsuppe
+
+"gsuppenavn" = "Gresskarsuppe";
+
+"gsuppeintro" = "Her er noen gode grunner til å bruke flaskegresskar i matlagingen sin: vitamin A, vitamin C, vitamin E, fiber, magnesium, mangan og kalium. Også er det kjempegodt selvfølgelig. Server denne Sørafrika-inspirerte 'butternut soup'-en til lønsj eller som en forrett, du kommer ikke til å angre.";
+
+"gsuppeing" = "flaskegresskar, 1, medium, kayennepepper, 1, ts, kanel, 1, ts, muskat, 1, ts, grønnsaksbuljong, 0.5, terning, vann, 1, dl";
+
+"gsuppe" = "1) Skru ovnen på 220 grader. Skjær gresskar i to på langs. Scoop ut frøene med en skje og ha dem direkte i en sil. Skyll og rens frøene så godt du kan, før du legger dem til tørking.\n\n2) Ha gresskarhalvdelene på et bakebrett, pensle godt med olivenolje og dryss på med salt og pepper. Ha i ovnen i rundt 30 min, eller til du merker at gresskaret er mykt.\n\n3) Ta gresskaret ut av ovnen og la kjøle seg litt ned. I mellomtiden kan du varme opp en tørr stekepanne og ha i gresskarfrøene, kayennepepperet og et krm. salt. La det kose seg på platen i 5 minutter, rør om underveis.\n\n4) Scoop ut gresskarkjøttet i en foodprocessor og ha i kanel og muskat. Blend til en puré. Ha gresskarpuréen i en kjele sammen med buljong og vann og varm opp. På dette tidspunktet er suppen egentlig ferdig, men hvis du vil ha en litt mer kremete suppe så er dette tiden å ha i litt melk, fløte eller creme fraiche.\n\nServer med ristede gresskarfrø og en glugg olivenolje på toppen og en brødskive på siden.";
+
+//Kålcurry = kålcurry
+
+"kålcurrynavn" = "Kålcurry";
+
+"kålcurryintro" = "Dette er desidert min favorittcurry hittil. Her har jeg prøvd å herme etter oppskriftene til min favorittrestaurant i Oslo; Krishnas Cuisine (dra dit). Kjennetegnet der er deilige mettende curryer stappfull av grønnsaker og krydder.";
+
+"kålcurrying" = "blomkål, 0.5, nil, spisskål, 0.5, nil, rødløk, 0.5, nil, kokte kikerter, 1, kopp, gul paprika, 0.5, nil, liten zucchini, 1, nil, kokkosmelk, 1, boks (400g), sennepsfrø, 1, ss, korianderfrø, 1, ts, spisskummenfrø, 1, ss, garam masala, 0.75, ts, gurkemeie, 0.75, ts, karri, 0.75, ts, salt, 1, ts";
+
+"kålcurry" = "1) Varm en wok med litt olje i. Skjær tofuen i terninger og stek til terningene er gylne på alle sider. Dette kan ta opptil 10 min. Hell tofuen over i en skål når den er ferdig.\n\n2) Ha i litt mer olje i pannen og ha frøene i oljen. Det burde begynne å dufte godt i kjøkkenet, og frøene begynner også etterhvert å 'poppe'. Da er det på tide å ha i løken og krydderet. La løken surre til den er myk. \n\n3) Nå tilsetter vi grønnsakene. Ha i første runde i squash (kvarterte skiver) og paprika (tynne halverte skiver). La det surre i 5 min. Når squash og paprika har fått stekt seg litt kan du ha i blomkålbukettene og kikertene (jeg anbefaler å alltid ha litt hjemmekokte kikerter i fryseren, det gjør dette mye enklere). Hell over kokkosmelken, bland godt og sett på lokk. Den skal nå putre i 10 min før du gjør noe mer (kok ris i mellomtiden?).\n\n4) Til slutt i gryten slipper du tofuterningene og all kålen, som skal være i passe store strimler. Disse skal koke med curryen kun de siste ti minuttene. Smak til med salt og evt. mer krydder før du serverer med en dæsj yoghurt og ris. Eller nan og chutney. Eller noe annet eller alt sammen!";
+
+
+//Granola = granola
+
+"granolanavn" = "Hjemmelaget granola";
+
+"granolaintro" = "Dette er en herlig hjemmelaget frokostblanding. Her er det bare å la fantasien bestemme hva du skal ha i av frukt, nøtter, korn, frø og andre smakstilsetninger. Spis med yoghurt, melk, mandelmelk eller ha den i en smoothie for herlig knas.";
+
+"granolaing" = "havregryn, 2, kopper, kokkosmasse, 0.5, kopp, mandelmel, 0.5, kopp, sesamfrø, 2, ss, linfrø, 2, ss, sukker, 2, ss, nøytral olje, 0.33, kopp, rosiner, 3, never, gojibær, 2, ss, dadler, 4, stk";
+
+"granola" = "1) Forvarm ovnen til 130 grader. Bland sammen havre, kokkos, mandelmel (du kan også bruke hakkede mandler om du vil), frø og olje i en bakebolle. Bland så inn sukkeret. Jeg skriver sukker, men jeg fraråder faktisk å bruke vanlig raffinert hvit sukker. Denne skal liksom være litt sunnere enn den du finner i hyllen. Jeg bruker kokkosblomstsukker, men det virker også med lønnesirup, rissirup, fruktsukker eller ingenting i det hele tatt.\n\n2) Kle et bakebrettt med bakepapir og bre havreblandingen utover brettet i et tynt lag. Sett i ovnen i 30 min. Det er viktig å røre om i blandingen minst to ganger i løpet av bakingen så det blir en jevn bruning. \n\n3) Ta bakebrettet ut av ovnen og avkjøl på rist. I mellomtiden kan du ta ut steinene fra dadlene, skjære dem i to på langs, og så i mindre biter på tvers. Bland den avkjølte havreblandingen med rosiner, dadler og gojibær og ha i en lufttett boks for oppbevaring. Ferdig!";
+
+//Rissalat = rissalat
+
+"rissalatnavn" = "Lun rissalat";
+
+"rissalatintro" = "Denne oppskriften har jeg stjålet fra den fantastiske kokeboken 'Forks over knives'. Denne kan jeg anbefale på det aller sterkeste til se som har lyst til å lage deilig kjempesunn mat uten olje, meieri og kjøtt. Denne rissalaten er et fullverdig måltid som smaker kjempegodt. (bønner og ris inneholder til sammen alle 9 essensielle aminosyrer)";
+
+"rissalating" = "ris, 1.5, kopp, kokte kikerter, 2, kopper, fennikel, 1, stk, appelsin, 1, stk, eddik, 2, ss, knust tørket chili, 1, ts, grovhakket persille, 0.25, kopp";
+
+"rissalat" = "1) Kok opp risen med dobbelt så mye vann under lokk.\n\n2) Fileter appelsinen; skjær først av en skikkelig 'hatt' oppe og nede. Før så kniven nedover fra topp til bunn under skallet. Fortsett rundt appelsinen til all albedoen (det hvite) er borte. Skjær appelsinen i to og fjern albedoen der også. Skjær så alt i ganske små biter. Hakk fennikelen i ganske små biter også.\n\n3) I en salatbolle, bland sammen appelsin, fennikel, persille, chili, kikerter og ris. Ha til slutt over eddikken og bland godt før servering.";
+
+//Pitapizza = pitapizza
+
+"pitapizzanavn" = "Pitapizza";
+
+"pitapizzaintro" = "Pitapizza er så gøy og så godt å ha til lønsj. Start med et pitabrød (her er det lov til å bruke ferdigbrød) og litt tomatsaus (ditto) og så ser du hva du føler for. Det er tellbart mange muligheter, så det er bare å slå seg løs. Det blir sannsynligvis veldig godt.";
+
+"pitapizzaing" = "pitabrød, 4, nil, tomatsaus, 1, kopp, tomat, 1, nil, maiskorn, 1, nil, sopp, 1, nil, pesto, 1, nil, ost, 1, nil, basilikum, 1, nil, pinjekjerner, 1, nil, ogsåvidere, 1, stk";
+
+"pitapizza" = "1) Som du kanskje forstår utifra den tullete ingredienslisten så er det her altså bare fantasien som setter grenser. Pita + topping, inn i ovnen på 230 grader i 5 minutter. Nesten så enkelt at det ikke er noe å skrive oppskrift om. Men nå vet du hvertfall at dette er en god idé (ikke min). Også er det gøy å lage dette med barn, de liker jo å velge selv. Kos dere.";
+
+//Mandelmelk = mandel
+
+"mandelnavn" = "Mandelmelk";
+
+"mandelintro" = "Hjemmelaget mandelmelk er en herlig erstatter for vanlig melk både for deg som ikke drikker kumelk og for deg som gjør det. Det kan brukes til nesten alt kumelk brukes til, som drikk, på frokostblandingen, i teen, kaffen og som iskrem. Prøv det da vel!";
+
+"mandeling" = "mandler, 2.5, dl, vann, 5, dl, dadler, 2, stk";
+
+"mandel" = "1) Kvelden før: ha mandlene i vann og la ligge over natten for å mykne.\n\n2) Ha mandler, vann og dadler i blenderen og blend noen minutter. Når væsken begynner å se ganske hvit og homogen ut er den klar. \n\n3) Ha et rent kjøkkenhåndkle over en bakebolle og få noen til å hjelpe deg holde det godt over bollen. Hell innholdet i blenderen over kjøkkenhåndkle og la melken renne igjennom ned i bakebollen. Hjelp til med en skje for å få ut all melken (gjør dette i flere runder hvis det trengs). Til slutt pakker du sammen kjøkkenhåndkle og presser ut den siste melken så hardt du kan. Vips så er melken klar for kjøleskapet. Holder i ca. tre dager. \n\nForresten: å kaste mandelmassen som blir igjen er helt tullete. Enten så kan du bruke den som den er med en gang til å foreksempel lage litt brød eller knekkebrød med mandel i, eller så kan du lage mandelmel. Det er enkelt; bre mandelmassen utover et bakebrett kledd med bakepapir og ha i ovnen i ca. 4 timer på 100 grader. Rør om av og til. Kan brukes i alle mulige bakverk og mer.";
+
+
+//Ost- og bønneburrito = burrito
+
+"burritonavn" = "Ost- og bønneburrito";
+
+"burritointro" = "Da jeg var i California sist påske forelsket jeg meg i disse 'Bean and cheese' burritosene. Jeg spiste det overalt hvor jeg var. Da jeg kom hjem fant jeg ut at man lett kan lage veldig gode bønneburritos hjemme også. Disse er veldig simple, men ikke la det hindre deg i å ha på alt det andre du vanligvis har på fredagstacoen også.";
+
+"burritoing" = "tørkede bønner, 2, kopper, løk, 1, nil, hvitløk, 2, fedd, olivenolje, 2, ss, buljong, 200, ml, tomater, 2, nil, ost, 50, g";
+
+"burrito" = "1) Hvis du skal bruke tørkede bønner (som jeg anbefaler), så må du ha dem i vann over natten. Jeg anbefaler å bruke pintobønner, hvite bønner eller kidneybønner. Det blir sannsynligvis ganske godt med bønner fra boks også. Hvis du bruker tørkede bønner, kok dem i godt med vann i ca 2 timer. Legg til side.\n\n2) I en stor stekepanne, varm opp litt olivenolje. Ha i finhakket løk og hvitløk og stek i ca. 10 min til løken er myk. Ha så bønnene i pannen. La bønnene stå og putre med løken i noen minutter.\n\n3) Nå begynner mosingen. Målet er en ganske grov bønnemos. Ha i litt og litt buljong (du trenger kanskje ikke å bruke alt - se det ann), og rør det godt sammen med bønnene. Bruk en potetmoser for å mose når bønnene er myke nok. Fortsett dette til du har en mos du er fornøyd med, ikke for tørr og ikke for våt. Det er ikke meningen at det skal se delikat ut.\n\n4) Når det nærmer seg middagstid så er det bare å gjøre klart. Ha en skål tomatskiver, en skål revet ost, bønnemos, korianderkvaster og tabasco på bordet og rop 'nå er det middag' så høyt du kan\n\nKommentar: det jeg her så kjærlig kaller bønnemos er det som på spansk heter frijoles refritos eller refried beans på engelsk og er veldig populært i meksikansk og tex-mex matlaging.";
+
+//Bulgursalat = bulgursalat
+
+"bulgursalatnavn" = "Bulgursalat";
+
+"bulgursalatintro" = "Å ha bulgur i salat er et veldig lurt triks for å servere en salat som hovedrett. Det gir masse fylde og bidrar med viktige næringsstoffer som protein, karbohydrater, jern og kalium.";
+
+"bulgursalating" = "bulgur, 1, kopp, små tomater, 4, nil, vårløk, 1, nil, selleri, 1, stang, agurk, 0.33, nil, rødløk, 0.5, nil, maiskorn, 1, boks, chili, 0.33, nil, små sopp, 5, nil, spinat, 100, g";
+
+"bulgursalat" = "1) Kok opp bulgur som anvist på pakken.\n\n 2) Skjær tomat, vårløk, selleri og agurk i salatvennlige biter og ha i en salatbolle. \n\n3) Skjær sopp i skiver, finhakk løk og chili og ha dem i en varm stekepanne med litt olje i. La steke i 5 min. Ha til slutt i spinaten i. Rør om og la ligge til spinaten akkurat nesten er helt ferdig kollapset. \n\n4) Bland kokt bulgur og stekte grønnsaker sammen med de rå grønnsakene i salatbollen og strø over litt salt og pepper. Nå er salaten ferdig. \n\nHer i huset har vi lenge diskutert hva slags dressing som burde brukes til denne salaten. Konklusjonen ble at den egentlig er helt fin uten dressing, men hvis man vil så kan man enten bruke en yoghurtbasert dressing slik jeg beskriver i 'Marrokansk kikertgryte' eller en olje/lime-basert dressing som beskrives i 'Quinoa- og granateplesalat' (uten honning). Bestem selv hva du vil.";
+
+
+//Fylt sopp = fsopp
+
+"fsoppnavn" = "Fylt sopp";
+
+"fsoppintro" = "Konseptet med å fylle grønnsaker med godt for så å bake det utforskes her videre, og nå står soppen for tur. Her er det viktig med store ferske sopp, da blir denne retten helt herlig. Portabellosopp eller ekstra store sjampinjong og aromasopp er alle fine soppalternativer til denne retten.";
+
+"fsopping" = "gulrot, 1, nil, selleri, 1, stang, tomatpuré, 1, liten boks, vann, 3, ss, store sopp, 4, nil, liten squash, 1, nil, hvitløk, 3, fedd, vårløk, 1, nil, osteskiver, 10, nil";
+
+"fsopp" = "Forvarm ovnen til 200 grader. Kutt selleri, squash, vårløk og gulrot i småbiter (det er spesielt viktig at gulroten er i ganske tynne skiver så den ikke er for hard på tallerkenen). Varm litt olje i en panne og ha hvitløken i. Etter et minutt kan du ha i resten av grønnsakene. La putre i 10 min.\n\n2) Brekk stilkene av soppene og bruk en skje til å grave ut litt soppemasse fra hatten. Det skal være god plass til fyll i. Anrett soppen i en ildfast form med hulsiden opp. \n\n3) Når grønnsakene har putret ferdig kan du ha i tomatpuréen og vannet. Rør godt om. På dette tidspunktet kan du krydre litt om du vil (basilikum eller oregano kanskje?). Hell så mye grønnsaker som mulig i soppen, og hell det som blir igjen i bunnen av formen. Legg osteskiver som lokk over soppen og sett i ovnen. La være i ovnen i 20 min. For ekstra gylden ost kan du sette på grillelementet de siste minuttene før servering.\n\nServer med ris og salat for en fullverdig middag.";
+
+
+//Fylt squash = fsquash
+
+"fsquashnavn" = "Fylt squash";
+
+"fsquashintro" = "Dette er Sarahs 'hjemme-alene-rett'. Uthult squashkano med kremet grønnsaksfyll ville de vel kalt den på en fancy restaurant. Her kaller vi den fylt squash. En lett middag, som fint kan gjøres tyngre med litt ris eller potetbåter til.";
+
+"fsquashing" = "stor squash, 1, nil, brekkbønner, 1, neve, cherrytomater, 6, nil, små sopp, 5, nil, vårløk, 1, nil, timian, 1, ts, creme fraiche, 4, ss, ost, 10, skiver";
+
+"fsquash" = "1) Forvarm ovnen til 200 grader. Skjær squashen i to på langs. Bruk en skje til å hule ut squashen som om de var små tømmerstokker som skal bli til kanoer. Spar på halvparten av squashmassen.\n\n2) Varm litt olje i en stekepanne. Ha i skivet sopp, brekkbønner, hakket tomat, squashinnmaten og finhakket vårløk og stek i noen minutter. Krydre med timian, salt og pepper og ta av varmen. Ha squashmassen og creme fraiche i stekepannen og bland godt. Anrett squashen på et bakebrett med bakepapir og fyll med de stekte grønnsakene. Ha osteskiver over som et lokk og sett i ovnen. Den skal stå i 20 minutter. Du kan gjerne sette på grillelementet de siste minuttene for ekstra gyllen ost.";
+
+
+//Fylt paprika = fpaprika
+
+"fpaprikanavn" = "Fylt paprika";
+
+"fpaprikaintro" = "Nå begynner du vel å skjønne tegninga; velg en grønnsak, finn på noe godt fyll, fyll grønnsaken og bak. Denne oppskriften er i grunn en variant av Sarahs risrett skjult inni en paprika. Godt bakt paprika smaker kjempegodt og har en helt annen smak enn rå paprika. Smak selv!";
+
+"fpaprikaing" = "ris, 0.5, kopp, rødløk, 0.5, nil, chili, 0.5, nil, hvitløk, 3, fedd, sopp, 4, nil, cherrytomater, 6, nil, squash, 0.33, nil, store paprika, 2, nil, ost, 4, skiver";
+
+"fpaprika" = "1) Forvarm ovnen til 220 grader. Sett risen til koking i dobbelt så mye vann. \n\n2) Finhakk chili, hvitløk og løk og stek i olje i noen minutter til det er mykt. Ha så i den kokte risen og la det steke på middels høy varme. Ikke vær redd for å la risen svi seg litt, det er da det blir best - knasende risbiter. Etter ca. 10 min ha i squash og sopp (kuttet i biter) i med risen. La steke til alt er nesten ferdigstekt.\n\n3) Skjær ut en sirkel rundt stilken til paprikaen og fjern så mye frø og hvitt du klarer. Fyll paprikaen med risblandingen og ha det i ovnen på et bakebrett. Legg på noen osteskiver som lokk over paprikaen. Bak i 20 min midt i ovnen.\n\nServer for eksempel med salat og salsa.";
+
+
+//Eple- og pærecrumble = crumble
+
+"crumbleintro" = "Dette er en herlig oppskrift som er inspirert av den veldig morsomme filmen 'Carnage'. Hemmeligheten er litt pepperkakesmuler i toppingen, men til andre årstider enn jul kan dette fint sløyfes.";
+
+"crumblenavn" = "Eple- og pærecrumble";
+
+"crumbleing" = "epler, 2, nil, pærer, 2, nil, mel, 5, dl, brunt sukker, 2.5, dl, smør, 350, g, pepperkaker, 100, g, kanel, 1, ts, kardemomme, 1, ts";
+
+"crumble" = "1) Forvarm ovnen til 200 grader. Sørg for at smøret har stått ute lenge nok til å være ganske mykt. Bland sammen mel, sukker og smør i en bakebolle til det har en smuldrete konsistens. Ha pepperkakene i blenderen og kjør til du har fine smuler. Bland smulene med melblandingen.\n\n2) Skjær frukten i den formen du liker best (skiver eller terninger), men pass på at pærene skjæres i tykkere biter enn eplene. Det er trikset; pæren bakes fortere. Bland eple- og pærebitene med kanel og kardemomme i en bolle. \n\n3) Ha eple og pære i en ildfast form og strø melblandingen over. Ha i ovnen i 20 min.\n\nServer som den er, eller med iskrem/krem";
+
+//Sarahs salsa = salsa
+
+"salsanavn" = "Sarahs salsa";
+
+"salsaintro" = "Dette er en tomatsalsa med linser som er veldig flink til å holde mange andre matretter i selskap på tallerkenen. Spis med fylte grønnsaker, stekte potetbåter, som dip, som spaghettisaus eller alene. Meget anvendelig og grei salsa.";
+
+"salsaing" = "hakkede tomater, 1, boks, kokte linser, 1, pk, rødløk, 0.5, nil, hvitløk, 3, fedd, chili, 0.33, nil, tørket rosmarin, 1, ss, tørket basilikum, 1, ss";
+
+"salsa" = "1) Varm opp litt olivenolje i en liten gryte. Ha så i løk, chili og hvitløk til det er gyllent og lukter godt. \n\n2) Ha tomater og linser i gryten og la putre i rundt 5 min. Smak til slutt til med urtene og salt og pepper.";
+
+//Vårruller = vårruller
+
+"vårrullernavn" = "Vårruller";
+
+"vårrullerintro" = "Vårruller er veldig gøy å lage selv og det blir kjempegodt. Du finner vårrullpapir i din nermeste asiatiske matvarebutikk.";
+
+"vårrullering" = "vårrullpapir, 1, pk, nudler, 50, g, gulrot, 1, nil, bønnespirer, 0.5, bok, chili, 0.5, nil, ingefær, 2, cm, kinakål, 0.33, nil, vårløk, 2, nil, brekkbønner, 1, neve, frityrolje, 0.5, l, søt chilisaus, 1, dl";
+
+"vårruller" = "1) Kok opp nudlene som anvist på pakken. Det blir godt med både eggnudler eller risvermicelli, eller en annen type nudler du finner. Sil av og avkjøl. \n\n2) Finhakk chili og ingefær og bland det godt sammen. Skjær gulrot, vårløk og kål i tynne strimler som er like lange som du vil at vårrullene skal være.\n\n3) Ha nudlene på en fjøl og skjær over to-tre ganger for å korte dem ned litt. Ha alle fyllingrediensene klare foran deg før du begynner med rullingen.\n\n4) Det kan være en idé å ta en titt på youtube for å lære seg rulleteknikken. Ha et vårrullpapir på fjølen og fyll det med nudler, gulrot, vårløk, bønnespirer, brekkbønner og chili/ingefær-blandingen. Rull papirene tett sammen og forsegl dem med litt vann. Ha alle rullene på en tallerken klar til fritering.\n\n5) Varm opp oljen i en passelig gryte til det bobler rundt en testvårrull som dyppes i. Stek så vårrullene i runder. To-tre minutter bør være nok, de skal være gylne og crispy! Avkjøl på rist dekket med kjøkkenhåndkle.\n\nServer med ris og søt chilisaus. Denne basisoppskriften metter tre skrubbsultne mennesker.";
+
+
+//Linseburger = lburger
+
+"lburgernavn" = "Linseburger";
+
+"lburgerintro" = "Dette er en linseburger hentet fra løperen Scott Jureks fantastiske bok 'Eat & Run'. Anbefalt lesing til deg som ønsker en inspirerende bok med masse deilige oppskrifter og løpehistorier. Disse burgerene er faste og saftige, og overbeviser muligens mange kjøttspisere.";
+
+"lburgering" = "tørkede linser, 1, kopp, vann, 2.25, kopp, tørket persille, 1, ts, sort pepper, 0.5, ts, hvitløk, 3, fedd, løk, 1, nil, valnøtter, 0.75, kopp, brødsmuler, 2, kopper, linfrømel, 0.5, kopp, finhakket sopp, 3, kopper, hakket spinat, 1.5, kopp, olivenolje, 2, ss, balsamico, 2, ss, Dijonsennep, 2, ss, ernæringsgjær, 2, ss, salt, 1, ts, paprikakrydder, 1, ts";
+
+"lburger" = "I en liten kjele, kok opp linser, vann, persille, en tredjedel av hvitløken, og kvarteparten av løken (som er blitt finhakket). La koke i 35 min, til all vannet er kokt inn og linsene er myke.\n\n2) Bland sammen valnøtter, brødsmuler og linfrømel (du kan også knuse egne linfrø, men det er lettest å kjøpe linfrømel i en helsekostbutikk) i en bakebolle. Tilsett ernæringsgjær, salt, pepper og paprika og bland godt.\n\n3) Fres resten av løken, soppen, spinaten og hvitløken i olivenolje i 10 min til det er mykt og godt. Ta linsene av varmen, tilsett balsamico og sennep og mos dem godt med en potetmoser. Bland så alt sammen i en bakebolle - brødsmuleblandingen, soppen og linsemosen. Avkjøl i kjøleskapet i minst 20 min.\n\n4) Form massen til burgere med hendene dine og stek i en smurt varm panne i flere runder 3-5 minutter pr. side. Da var burgerene klare. Jeg regner med at du selv finner på noe annet godt å ha sammen med dem mellom to burgerbrød? Kos deg.";
+
+
+
+
+
+
+

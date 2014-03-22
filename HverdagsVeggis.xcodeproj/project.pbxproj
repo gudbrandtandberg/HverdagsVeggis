@@ -1,0 +1,701 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		423CB1441843E2C200C48C06 /* spinatsuppe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 423CB1411843E2C200C48C06 /* spinatsuppe.jpg */; };
+		423CB1461843E2C200C48C06 /* granola.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 423CB1431843E2C200C48C06 /* granola.jpg */; };
+		423CB1481843E30700C48C06 /* kålcurry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 423CB1471843E30700C48C06 /* kålcurry.jpg */; };
+		423CB14A1844A90F00C48C06 /* mandel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 423CB1491844A90F00C48C06 /* mandel.jpg */; };
+		423CB14C1844A91600C48C06 /* bananmuffins.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 423CB14B1844A91600C48C06 /* bananmuffins.jpg */; };
+		423CB14E1844A9F400C48C06 /* rissalat.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 423CB14D1844A9F400C48C06 /* rissalat.JPG */; };
+		423CB15618461F5400C48C06 /* fsquash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 423CB15518461F5400C48C06 /* fsquash.jpg */; };
+		423CB1581851126700C48C06 /* fpaprika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 423CB1571851126700C48C06 /* fpaprika.jpg */; };
+		423CB15A1851126D00C48C06 /* salsa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 423CB1591851126D00C48C06 /* salsa.jpg */; };
+		423CB15C1851127700C48C06 /* vårruller.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 423CB15B1851127700C48C06 /* vårruller.jpg */; };
+		423CB15E1851127C00C48C06 /* crumble.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 423CB15D1851127C00C48C06 /* crumble.jpg */; };
+		423CB1601851131D00C48C06 /* bulgursalat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 423CB15F1851131D00C48C06 /* bulgursalat.jpg */; };
+		423CB162185482EF00C48C06 /* EkstraViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 423CB161185482EF00C48C06 /* EkstraViewController.xib */; };
+		42B0C07C181FFEAB008CB16B /* HjemViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C07B181FFEAA008CB16B /* HjemViewController.xib */; };
+		42B0C07F18266924008CB16B /* tabbouleh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C07D18266924008CB16B /* tabbouleh.jpg */; };
+		42B0C08018266924008CB16B /* tahini.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C07E18266924008CB16B /* tahini.jpg */; };
+		42B0C0841826692E008CB16B /* falaffel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C0821826692E008CB16B /* falaffel.jpg */; };
+		42B0C0881826E8F0008CB16B /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C0851826E8F0008CB16B /* Default.png */; };
+		42B0C0891826E8F0008CB16B /* Default~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C0861826E8F0008CB16B /* Default~iphone.png */; };
+		42B0C08A1826E8F0008CB16B /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C0871826E8F0008CB16B /* Default-568h@2x.png */; };
+		42B0C08E1826E958008CB16B /* Bakgrunnsbilde.png in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C08B1826E958008CB16B /* Bakgrunnsbilde.png */; };
+		42B0C08F1826E958008CB16B /* Bakgrunnsbilde~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C08C1826E958008CB16B /* Bakgrunnsbilde~iphone.png */; };
+		42B0C0901826E958008CB16B /* Bakgrunnsbilde-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C08D1826E958008CB16B /* Bakgrunnsbilde-568h@2x.png */; };
+		42B0C0941826F3F5008CB16B /* logo114x114.png in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C0931826F3F5008CB16B /* logo114x114.png */; };
+		42B0C0981827C93E008CB16B /* logo120x120.png in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C0971827C93E008CB16B /* logo120x120.png */; };
+		42B0C0A31827C984008CB16B /* burrito.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C0991827C984008CB16B /* burrito.jpg */; };
+		42B0C0A41827C984008CB16B /* kikertgryte.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C09A1827C984008CB16B /* kikertgryte.jpg */; };
+		42B0C0A61827C984008CB16B /* fsopp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C09C1827C984008CB16B /* fsopp.jpg */; };
+		42B0C0A91827C984008CB16B /* lburger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C09F1827C984008CB16B /* lburger.jpg */; };
+		42B0C0AC1827C984008CB16B /* pitapizza.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C0A21827C984008CB16B /* pitapizza.jpg */; };
+		42B0C0B118294B59008CB16B /* moossakaa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C0AD18294B59008CB16B /* moossakaa.jpg */; };
+		42B0C0B418294B59008CB16B /* poire.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C0B018294B59008CB16B /* poire.jpg */; };
+		42B0C0B618316861008CB16B /* grønnkål.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C0B518316861008CB16B /* grønnkål.jpg */; };
+		42B0C0BE18316874008CB16B /* hvitløk.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C0B718316874008CB16B /* hvitløk.jpg */; };
+		42B0C0BF18316874008CB16B /* potetsalat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C0B818316874008CB16B /* potetsalat.jpg */; };
+		42B0C0C018316874008CB16B /* quinoasalat.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C0B918316874008CB16B /* quinoasalat.JPG */; };
+		42B0C0C118316874008CB16B /* småbrød.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C0BA18316874008CB16B /* småbrød.jpg */; };
+		42B0C0C418316874008CB16B /* tomatpotet.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42B0C0BD18316874008CB16B /* tomatpotet.jpg */; };
+		42F46A5E183BE9950079DAAF /* gsuppe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42F46A59183BE9950079DAAF /* gsuppe.jpg */; };
+		42F46A5F183BE9950079DAAF /* lasagne.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42F46A5A183BE9950079DAAF /* lasagne.jpg */; };
+		42F46A60183BE9950079DAAF /* thainudler.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42F46A5B183BE9950079DAAF /* thainudler.jpg */; };
+		42F46A61183BE9950079DAAF /* peanøttnudler.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42F46A5C183BE9950079DAAF /* peanøttnudler.jpg */; };
+		42F46A62183BE9950079DAAF /* dandan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42F46A5D183BE9950079DAAF /* dandan.jpg */; };
+		551AEBCC17D7309200092917 /* EkstraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 551AEBCA17D7309200092917 /* EkstraViewController.m */; };
+		552FE25317A001B80053EB9D /* knivoggaffel.png in Resources */ = {isa = PBXBuildFile; fileRef = 552FE25217A001B70053EB9D /* knivoggaffel.png */; };
+		552FE25517A002170053EB9D /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = 552FE25417A002170053EB9D /* home.png */; };
+		552FE26717A12C210053EB9D /* pannekaker.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 552FE26617A12C210053EB9D /* pannekaker.jpg */; };
+		555483CE17A5793C00D52E21 /* morelltert.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 555483CC17A5793C00D52E21 /* morelltert.jpg */; };
+		555483CF17A5793C00D52E21 /* thaisuppe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 555483CD17A5793C00D52E21 /* thaisuppe.jpg */; };
+		5575CB501743911800FC0243 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5575CB4F1743911800FC0243 /* UIKit.framework */; settings = {ATTRIBUTES = (Required, ); }; };
+		5575CB521743911800FC0243 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5575CB511743911800FC0243 /* Foundation.framework */; };
+		5575CB541743911800FC0243 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5575CB531743911800FC0243 /* CoreGraphics.framework */; };
+		55B0E1DD17EDF5D300D329D4 /* ravioli.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B0E1DC17EDF5D200D329D4 /* ravioli.jpg */; };
+		55B0E1DF17EDF5E700D329D4 /* skaperen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B0E1DE17EDF5E700D329D4 /* skaperen.jpg */; };
+		55B0E1E117EDF9F900D329D4 /* risrett.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B0E1E017EDF9F800D329D4 /* risrett.jpg */; };
+		55B0E1E317EDFA1D00D329D4 /* havregrot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B0E1E217EDFA1C00D329D4 /* havregrot.jpg */; };
+		55B0E1E517EDFA2A00D329D4 /* hummus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B0E1E417EDFA2A00D329D4 /* hummus.jpg */; };
+		55B0E1E717EDFA3000D329D4 /* pita.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B0E1E617EDFA3000D329D4 /* pita.jpg */; };
+		55B341F1179EDEBE004283AD /* FirstNavigationViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 55B341E9179EDEBE004283AD /* FirstNavigationViewController.xib */; };
+		55B341F2179EDEBE004283AD /* ForklaringViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 55B341EA179EDEBE004283AD /* ForklaringViewController.xib */; };
+		55B341F3179EDEBE004283AD /* FremgangsmaateVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 55B341EB179EDEBE004283AD /* FremgangsmaateVC.xib */; };
+		55B341F4179EDEBE004283AD /* HovedOppskriftVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 55B341EC179EDEBE004283AD /* HovedOppskriftVC.xib */; };
+		55B341F5179EDEBE004283AD /* IngrediensVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 55B341ED179EDEBE004283AD /* IngrediensVC.xib */; };
+		55B341F6179EDEBE004283AD /* OppskriftTabellViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 55B341EE179EDEBE004283AD /* OppskriftTabellViewController.xib */; };
+		55B341F7179EDEBE004283AD /* OppskriftViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 55B341EF179EDEBE004283AD /* OppskriftViewController.xib */; };
+		55B341F8179EDEBE004283AD /* SecondNavigationViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 55B341F0179EDEBE004283AD /* SecondNavigationViewController.xib */; };
+		55B34213179EDF32004283AD /* AlleOppskrifteneDataController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B341FB179EDF32004283AD /* AlleOppskrifteneDataController.m */; };
+		55B34214179EDF32004283AD /* FirstNavigationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B341FD179EDF32004283AD /* FirstNavigationViewController.m */; };
+		55B34215179EDF32004283AD /* ForklaringViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B341FF179EDF32004283AD /* ForklaringViewController.m */; };
+		55B34216179EDF32004283AD /* FremgangsmaateVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B34201179EDF32004283AD /* FremgangsmaateVC.m */; };
+		55B34217179EDF32004283AD /* HjemViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B34203179EDF32004283AD /* HjemViewController.m */; };
+		55B34218179EDF32004283AD /* HovedOppskriftVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B34205179EDF32004283AD /* HovedOppskriftVC.m */; };
+		55B34219179EDF32004283AD /* IngrediensVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B34207179EDF32004283AD /* IngrediensVC.m */; };
+		55B3421A179EDF32004283AD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B34208179EDF32004283AD /* main.m */; };
+		55B3421B179EDF32004283AD /* OppskriftTabellViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B3420A179EDF32004283AD /* OppskriftTabellViewController.m */; };
+		55B3421C179EDF32004283AD /* OppskriftViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B3420C179EDF32004283AD /* OppskriftViewController.m */; };
+		55B3421D179EDF32004283AD /* SecondNavigationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B3420E179EDF32004283AD /* SecondNavigationViewController.m */; };
+		55B3421E179EDF32004283AD /* VeggisAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B34210179EDF32004283AD /* VeggisAppDelegate.m */; };
+		55B3421F179EDF32004283AD /* VeggisOppskrift.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B34212179EDF32004283AD /* VeggisOppskrift.m */; };
+		55B34230179EDFA5004283AD /* blåbærpai.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B34221179EDFA5004283AD /* blåbærpai.jpg */; };
+		55B34234179EDFA5004283AD /* grønnsaksburger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B34225179EDFA5004283AD /* grønnsaksburger.jpg */; };
+		55B34239179EDFA5004283AD /* logo57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = 55B3422A179EDFA5004283AD /* logo57x57.png */; };
+		55B3423A179EDFA5004283AD /* pannekake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B3422B179EDFA5004283AD /* pannekake.jpg */; };
+		55B3423C179EDFA5004283AD /* squashstrimler.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55B3422D179EDFA5004283AD /* squashstrimler.jpg */; };
+		55E35A011753CD3D00599BDD /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 55E35A031753CD3D00599BDD /* Localizable.strings */; };
+		55EA85E117D88BD6009F13D0 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55EA85E017D88BD6009F13D0 /* AVFoundation.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		55F3355917ABCB5500C2832A /* bananis.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55F3355817ABCB5500C2832A /* bananis.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		423CB1411843E2C200C48C06 /* spinatsuppe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = spinatsuppe.jpg; sourceTree = "<group>"; };
+		423CB1431843E2C200C48C06 /* granola.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = granola.jpg; sourceTree = "<group>"; };
+		423CB1471843E30700C48C06 /* kålcurry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "kålcurry.jpg"; sourceTree = "<group>"; };
+		423CB1491844A90F00C48C06 /* mandel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mandel.jpg; sourceTree = "<group>"; };
+		423CB14B1844A91600C48C06 /* bananmuffins.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bananmuffins.jpg; sourceTree = "<group>"; };
+		423CB14D1844A9F400C48C06 /* rissalat.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rissalat.JPG; sourceTree = "<group>"; };
+		423CB15518461F5400C48C06 /* fsquash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fsquash.jpg; sourceTree = "<group>"; };
+		423CB1571851126700C48C06 /* fpaprika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fpaprika.jpg; sourceTree = "<group>"; };
+		423CB1591851126D00C48C06 /* salsa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = salsa.jpg; sourceTree = "<group>"; };
+		423CB15B1851127700C48C06 /* vårruller.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "vårruller.jpg"; sourceTree = "<group>"; };
+		423CB15D1851127C00C48C06 /* crumble.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = crumble.jpg; sourceTree = "<group>"; };
+		423CB15F1851131D00C48C06 /* bulgursalat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bulgursalat.jpg; sourceTree = "<group>"; };
+		423CB161185482EF00C48C06 /* EkstraViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EkstraViewController.xib; sourceTree = "<group>"; };
+		42B0C07B181FFEAA008CB16B /* HjemViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HjemViewController.xib; sourceTree = "<group>"; };
+		42B0C07D18266924008CB16B /* tabbouleh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tabbouleh.jpg; sourceTree = "<group>"; };
+		42B0C07E18266924008CB16B /* tahini.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tahini.jpg; sourceTree = "<group>"; };
+		42B0C0821826692E008CB16B /* falaffel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = falaffel.jpg; sourceTree = "<group>"; };
+		42B0C0851826E8F0008CB16B /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		42B0C0861826E8F0008CB16B /* Default~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default~iphone.png"; sourceTree = "<group>"; };
+		42B0C0871826E8F0008CB16B /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		42B0C08B1826E958008CB16B /* Bakgrunnsbilde.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bakgrunnsbilde.png; sourceTree = "<group>"; };
+		42B0C08C1826E958008CB16B /* Bakgrunnsbilde~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Bakgrunnsbilde~iphone.png"; sourceTree = "<group>"; };
+		42B0C08D1826E958008CB16B /* Bakgrunnsbilde-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Bakgrunnsbilde-568h@2x.png"; sourceTree = "<group>"; };
+		42B0C0931826F3F5008CB16B /* logo114x114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo114x114.png; sourceTree = "<group>"; };
+		42B0C0971827C93E008CB16B /* logo120x120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo120x120.png; sourceTree = "<group>"; };
+		42B0C0991827C984008CB16B /* burrito.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = burrito.jpg; sourceTree = "<group>"; };
+		42B0C09A1827C984008CB16B /* kikertgryte.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kikertgryte.jpg; sourceTree = "<group>"; };
+		42B0C09C1827C984008CB16B /* fsopp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fsopp.jpg; sourceTree = "<group>"; };
+		42B0C09F1827C984008CB16B /* lburger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lburger.jpg; sourceTree = "<group>"; };
+		42B0C0A21827C984008CB16B /* pitapizza.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pitapizza.jpg; sourceTree = "<group>"; };
+		42B0C0AD18294B59008CB16B /* moossakaa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = moossakaa.jpg; sourceTree = "<group>"; };
+		42B0C0B018294B59008CB16B /* poire.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = poire.jpg; sourceTree = "<group>"; };
+		42B0C0B518316861008CB16B /* grønnkål.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "grønnkål.jpg"; sourceTree = "<group>"; };
+		42B0C0B718316874008CB16B /* hvitløk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "hvitløk.jpg"; sourceTree = "<group>"; };
+		42B0C0B818316874008CB16B /* potetsalat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = potetsalat.jpg; sourceTree = "<group>"; };
+		42B0C0B918316874008CB16B /* quinoasalat.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = quinoasalat.JPG; sourceTree = "<group>"; };
+		42B0C0BA18316874008CB16B /* småbrød.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "småbrød.jpg"; sourceTree = "<group>"; };
+		42B0C0BD18316874008CB16B /* tomatpotet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tomatpotet.jpg; sourceTree = "<group>"; };
+		42F46A59183BE9950079DAAF /* gsuppe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gsuppe.jpg; sourceTree = "<group>"; };
+		42F46A5A183BE9950079DAAF /* lasagne.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lasagne.jpg; sourceTree = "<group>"; };
+		42F46A5B183BE9950079DAAF /* thainudler.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thainudler.jpg; sourceTree = "<group>"; };
+		42F46A5C183BE9950079DAAF /* peanøttnudler.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "peanøttnudler.jpg"; sourceTree = "<group>"; };
+		42F46A5D183BE9950079DAAF /* dandan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dandan.jpg; sourceTree = "<group>"; };
+		551AEBC917D7309200092917 /* EkstraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EkstraViewController.h; sourceTree = "<group>"; };
+		551AEBCA17D7309200092917 /* EkstraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EkstraViewController.m; sourceTree = "<group>"; };
+		552FE25217A001B70053EB9D /* knivoggaffel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = knivoggaffel.png; sourceTree = "<group>"; };
+		552FE25417A002170053EB9D /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
+		552FE26617A12C210053EB9D /* pannekaker.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pannekaker.jpg; sourceTree = "<group>"; };
+		5553DD67175388E9003891FA /* HverdagsVeggis-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "HverdagsVeggis-Info.plist"; sourceTree = "<group>"; };
+		555483CC17A5793C00D52E21 /* morelltert.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = morelltert.jpg; sourceTree = "<group>"; };
+		555483CD17A5793C00D52E21 /* thaisuppe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thaisuppe.jpg; sourceTree = "<group>"; };
+		5575CB4C1743911800FC0243 /* HverdagsVeggis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HverdagsVeggis.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5575CB4F1743911800FC0243 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		5575CB511743911800FC0243 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		5575CB531743911800FC0243 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		5575CB5D1743911800FC0243 /* HverdagsVeggis-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HverdagsVeggis-Prefix.pch"; sourceTree = "<group>"; };
+		557DA3DC176B798C00D12C4C /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		55B0E1DC17EDF5D200D329D4 /* ravioli.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ravioli.jpg; sourceTree = "<group>"; };
+		55B0E1DE17EDF5E700D329D4 /* skaperen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = skaperen.jpg; sourceTree = "<group>"; };
+		55B0E1E017EDF9F800D329D4 /* risrett.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = risrett.jpg; sourceTree = "<group>"; };
+		55B0E1E217EDFA1C00D329D4 /* havregrot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = havregrot.jpg; sourceTree = "<group>"; };
+		55B0E1E417EDFA2A00D329D4 /* hummus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hummus.jpg; sourceTree = "<group>"; };
+		55B0E1E617EDFA3000D329D4 /* pita.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pita.jpg; sourceTree = "<group>"; };
+		55B341E9179EDEBE004283AD /* FirstNavigationViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FirstNavigationViewController.xib; sourceTree = "<group>"; };
+		55B341EA179EDEBE004283AD /* ForklaringViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ForklaringViewController.xib; sourceTree = "<group>"; };
+		55B341EB179EDEBE004283AD /* FremgangsmaateVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FremgangsmaateVC.xib; sourceTree = "<group>"; };
+		55B341EC179EDEBE004283AD /* HovedOppskriftVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HovedOppskriftVC.xib; sourceTree = "<group>"; };
+		55B341ED179EDEBE004283AD /* IngrediensVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = IngrediensVC.xib; sourceTree = "<group>"; };
+		55B341EE179EDEBE004283AD /* OppskriftTabellViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OppskriftTabellViewController.xib; sourceTree = "<group>"; };
+		55B341EF179EDEBE004283AD /* OppskriftViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OppskriftViewController.xib; sourceTree = "<group>"; };
+		55B341F0179EDEBE004283AD /* SecondNavigationViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SecondNavigationViewController.xib; sourceTree = "<group>"; };
+		55B341FA179EDF32004283AD /* AlleOppskrifteneDataController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlleOppskrifteneDataController.h; sourceTree = "<group>"; };
+		55B341FB179EDF32004283AD /* AlleOppskrifteneDataController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AlleOppskrifteneDataController.m; sourceTree = "<group>"; };
+		55B341FC179EDF32004283AD /* FirstNavigationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstNavigationViewController.h; sourceTree = "<group>"; };
+		55B341FD179EDF32004283AD /* FirstNavigationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstNavigationViewController.m; sourceTree = "<group>"; };
+		55B341FE179EDF32004283AD /* ForklaringViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ForklaringViewController.h; sourceTree = "<group>"; };
+		55B341FF179EDF32004283AD /* ForklaringViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ForklaringViewController.m; sourceTree = "<group>"; };
+		55B34200179EDF32004283AD /* FremgangsmaateVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FremgangsmaateVC.h; sourceTree = "<group>"; };
+		55B34201179EDF32004283AD /* FremgangsmaateVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FremgangsmaateVC.m; sourceTree = "<group>"; };
+		55B34202179EDF32004283AD /* HjemViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HjemViewController.h; sourceTree = "<group>"; };
+		55B34203179EDF32004283AD /* HjemViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HjemViewController.m; sourceTree = "<group>"; };
+		55B34204179EDF32004283AD /* HovedOppskriftVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HovedOppskriftVC.h; sourceTree = "<group>"; };
+		55B34205179EDF32004283AD /* HovedOppskriftVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HovedOppskriftVC.m; sourceTree = "<group>"; };
+		55B34206179EDF32004283AD /* IngrediensVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IngrediensVC.h; sourceTree = "<group>"; };
+		55B34207179EDF32004283AD /* IngrediensVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IngrediensVC.m; sourceTree = "<group>"; };
+		55B34208179EDF32004283AD /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		55B34209179EDF32004283AD /* OppskriftTabellViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OppskriftTabellViewController.h; sourceTree = "<group>"; };
+		55B3420A179EDF32004283AD /* OppskriftTabellViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OppskriftTabellViewController.m; sourceTree = "<group>"; };
+		55B3420B179EDF32004283AD /* OppskriftViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OppskriftViewController.h; sourceTree = "<group>"; };
+		55B3420C179EDF32004283AD /* OppskriftViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OppskriftViewController.m; sourceTree = "<group>"; };
+		55B3420D179EDF32004283AD /* SecondNavigationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondNavigationViewController.h; sourceTree = "<group>"; };
+		55B3420E179EDF32004283AD /* SecondNavigationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondNavigationViewController.m; sourceTree = "<group>"; };
+		55B3420F179EDF32004283AD /* VeggisAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VeggisAppDelegate.h; sourceTree = "<group>"; };
+		55B34210179EDF32004283AD /* VeggisAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VeggisAppDelegate.m; sourceTree = "<group>"; };
+		55B34211179EDF32004283AD /* VeggisOppskrift.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VeggisOppskrift.h; sourceTree = "<group>"; };
+		55B34212179EDF32004283AD /* VeggisOppskrift.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VeggisOppskrift.m; sourceTree = "<group>"; };
+		55B34221179EDFA5004283AD /* blåbærpai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "blåbærpai.jpg"; sourceTree = "<group>"; };
+		55B34225179EDFA5004283AD /* grønnsaksburger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "grønnsaksburger.jpg"; sourceTree = "<group>"; };
+		55B3422A179EDFA5004283AD /* logo57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo57x57.png; sourceTree = "<group>"; };
+		55B3422B179EDFA5004283AD /* pannekake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pannekake.jpg; sourceTree = "<group>"; };
+		55B3422D179EDFA5004283AD /* squashstrimler.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = squashstrimler.jpg; sourceTree = "<group>"; };
+		55E35A041753CD4000599BDD /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/Localizable.strings; sourceTree = "<group>"; };
+		55EA85E017D88BD6009F13D0 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = ../../../../../System/Library/Frameworks/AVFoundation.framework; sourceTree = "<group>"; };
+		55F3355817ABCB5500C2832A /* bananis.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bananis.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5575CB491743911800FC0243 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5575CB501743911800FC0243 /* UIKit.framework in Frameworks */,
+				5575CB521743911800FC0243 /* Foundation.framework in Frameworks */,
+				5575CB541743911800FC0243 /* CoreGraphics.framework in Frameworks */,
+				55EA85E117D88BD6009F13D0 /* AVFoundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5575CB431743911800FC0243 = {
+			isa = PBXGroup;
+			children = (
+				5575CB551743911800FC0243 /* HverdagsVeggis */,
+				5575CB4E1743911800FC0243 /* Frameworks */,
+				5575CB4D1743911800FC0243 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5575CB4D1743911800FC0243 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5575CB4C1743911800FC0243 /* HverdagsVeggis.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5575CB4E1743911800FC0243 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				55EA85E017D88BD6009F13D0 /* AVFoundation.framework */,
+				5575CB4F1743911800FC0243 /* UIKit.framework */,
+				5575CB511743911800FC0243 /* Foundation.framework */,
+				5575CB531743911800FC0243 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5575CB551743911800FC0243 /* HverdagsVeggis */ = {
+			isa = PBXGroup;
+			children = (
+				55B34220179EDFA5004283AD /* Images */,
+				55B341F9179EDF32004283AD /* Classes */,
+				55B341E8179EDEBE004283AD /* Xibs */,
+				5575CB561743911800FC0243 /* Supporting Files */,
+			);
+			path = HverdagsVeggis;
+			sourceTree = "<group>";
+		};
+		5575CB561743911800FC0243 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				5553DD67175388E9003891FA /* HverdagsVeggis-Info.plist */,
+				557DA3DD176B798C00D12C4C /* InfoPlist.strings */,
+				5575CB5D1743911800FC0243 /* HverdagsVeggis-Prefix.pch */,
+				55E35A031753CD3D00599BDD /* Localizable.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		55B341E8179EDEBE004283AD /* Xibs */ = {
+			isa = PBXGroup;
+			children = (
+				42B0C07B181FFEAA008CB16B /* HjemViewController.xib */,
+				55B341E9179EDEBE004283AD /* FirstNavigationViewController.xib */,
+				55B341EA179EDEBE004283AD /* ForklaringViewController.xib */,
+				423CB161185482EF00C48C06 /* EkstraViewController.xib */,
+				55B341EB179EDEBE004283AD /* FremgangsmaateVC.xib */,
+				55B341EC179EDEBE004283AD /* HovedOppskriftVC.xib */,
+				55B341ED179EDEBE004283AD /* IngrediensVC.xib */,
+				55B341EE179EDEBE004283AD /* OppskriftTabellViewController.xib */,
+				55B341EF179EDEBE004283AD /* OppskriftViewController.xib */,
+				55B341F0179EDEBE004283AD /* SecondNavigationViewController.xib */,
+			);
+			path = Xibs;
+			sourceTree = "<group>";
+		};
+		55B341F9179EDF32004283AD /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				55B3420F179EDF32004283AD /* VeggisAppDelegate.h */,
+				55B34210179EDF32004283AD /* VeggisAppDelegate.m */,
+				55B341FC179EDF32004283AD /* FirstNavigationViewController.h */,
+				55B341FD179EDF32004283AD /* FirstNavigationViewController.m */,
+				55B34202179EDF32004283AD /* HjemViewController.h */,
+				55B34203179EDF32004283AD /* HjemViewController.m */,
+				551AEBC917D7309200092917 /* EkstraViewController.h */,
+				551AEBCA17D7309200092917 /* EkstraViewController.m */,
+				55B341FE179EDF32004283AD /* ForklaringViewController.h */,
+				55B341FF179EDF32004283AD /* ForklaringViewController.m */,
+				55B3420D179EDF32004283AD /* SecondNavigationViewController.h */,
+				55B3420E179EDF32004283AD /* SecondNavigationViewController.m */,
+				55B34209179EDF32004283AD /* OppskriftTabellViewController.h */,
+				55B3420A179EDF32004283AD /* OppskriftTabellViewController.m */,
+				55B3420B179EDF32004283AD /* OppskriftViewController.h */,
+				55B3420C179EDF32004283AD /* OppskriftViewController.m */,
+				55B34204179EDF32004283AD /* HovedOppskriftVC.h */,
+				55B34205179EDF32004283AD /* HovedOppskriftVC.m */,
+				55B34206179EDF32004283AD /* IngrediensVC.h */,
+				55B34207179EDF32004283AD /* IngrediensVC.m */,
+				55B34200179EDF32004283AD /* FremgangsmaateVC.h */,
+				55B34201179EDF32004283AD /* FremgangsmaateVC.m */,
+				55B341FA179EDF32004283AD /* AlleOppskrifteneDataController.h */,
+				55B341FB179EDF32004283AD /* AlleOppskrifteneDataController.m */,
+				55B34211179EDF32004283AD /* VeggisOppskrift.h */,
+				55B34212179EDF32004283AD /* VeggisOppskrift.m */,
+				55B34208179EDF32004283AD /* main.m */,
+			);
+			name = Classes;
+			path = HverdagsVeggis/Classes;
+			sourceTree = SOURCE_ROOT;
+		};
+		55B34220179EDFA5004283AD /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				55B34240179F08A0004283AD /* App-bilder */,
+				55B3423F179F0892004283AD /* Oppskriftbilder */,
+			);
+			name = Images;
+			path = HverdagsVeggis/Images;
+			sourceTree = SOURCE_ROOT;
+		};
+		55B3423F179F0892004283AD /* Oppskriftbilder */ = {
+			isa = PBXGroup;
+			children = (
+				42B0C0B718316874008CB16B /* hvitløk.jpg */,
+				42B0C0B818316874008CB16B /* potetsalat.jpg */,
+				42B0C0B918316874008CB16B /* quinoasalat.JPG */,
+				42B0C0BA18316874008CB16B /* småbrød.jpg */,
+				42B0C0BD18316874008CB16B /* tomatpotet.jpg */,
+				42B0C0B518316861008CB16B /* grønnkål.jpg */,
+				42B0C0AD18294B59008CB16B /* moossakaa.jpg */,
+				423CB14D1844A9F400C48C06 /* rissalat.JPG */,
+				423CB1411843E2C200C48C06 /* spinatsuppe.jpg */,
+				423CB1431843E2C200C48C06 /* granola.jpg */,
+				42B0C0B018294B59008CB16B /* poire.jpg */,
+				423CB14B1844A91600C48C06 /* bananmuffins.jpg */,
+				42B0C0991827C984008CB16B /* burrito.jpg */,
+				423CB1491844A90F00C48C06 /* mandel.jpg */,
+				42F46A59183BE9950079DAAF /* gsuppe.jpg */,
+				42F46A5A183BE9950079DAAF /* lasagne.jpg */,
+				42F46A5B183BE9950079DAAF /* thainudler.jpg */,
+				42F46A5C183BE9950079DAAF /* peanøttnudler.jpg */,
+				42F46A5D183BE9950079DAAF /* dandan.jpg */,
+				42B0C09A1827C984008CB16B /* kikertgryte.jpg */,
+				42B0C09C1827C984008CB16B /* fsopp.jpg */,
+				423CB15518461F5400C48C06 /* fsquash.jpg */,
+				42B0C09F1827C984008CB16B /* lburger.jpg */,
+				423CB1471843E30700C48C06 /* kålcurry.jpg */,
+				42B0C0A21827C984008CB16B /* pitapizza.jpg */,
+				423CB15B1851127700C48C06 /* vårruller.jpg */,
+				423CB1571851126700C48C06 /* fpaprika.jpg */,
+				423CB1591851126D00C48C06 /* salsa.jpg */,
+				423CB15D1851127C00C48C06 /* crumble.jpg */,
+				42B0C0821826692E008CB16B /* falaffel.jpg */,
+				42B0C07D18266924008CB16B /* tabbouleh.jpg */,
+				42B0C07E18266924008CB16B /* tahini.jpg */,
+				55B34225179EDFA5004283AD /* grønnsaksburger.jpg */,
+				55B3422B179EDFA5004283AD /* pannekake.jpg */,
+				55F3355817ABCB5500C2832A /* bananis.jpg */,
+				55B0E1E017EDF9F800D329D4 /* risrett.jpg */,
+				55B0E1E617EDFA3000D329D4 /* pita.jpg */,
+				423CB15F1851131D00C48C06 /* bulgursalat.jpg */,
+				555483CC17A5793C00D52E21 /* morelltert.jpg */,
+				555483CD17A5793C00D52E21 /* thaisuppe.jpg */,
+				55B0E1DE17EDF5E700D329D4 /* skaperen.jpg */,
+				55B0E1E417EDFA2A00D329D4 /* hummus.jpg */,
+				55B0E1E217EDFA1C00D329D4 /* havregrot.jpg */,
+				55B0E1DC17EDF5D200D329D4 /* ravioli.jpg */,
+				55B3422D179EDFA5004283AD /* squashstrimler.jpg */,
+				552FE26617A12C210053EB9D /* pannekaker.jpg */,
+				55B34221179EDFA5004283AD /* blåbærpai.jpg */,
+			);
+			name = Oppskriftbilder;
+			sourceTree = "<group>";
+		};
+		55B34240179F08A0004283AD /* App-bilder */ = {
+			isa = PBXGroup;
+			children = (
+				42B0C08B1826E958008CB16B /* Bakgrunnsbilde.png */,
+				42B0C08C1826E958008CB16B /* Bakgrunnsbilde~iphone.png */,
+				42B0C08D1826E958008CB16B /* Bakgrunnsbilde-568h@2x.png */,
+				42B0C0851826E8F0008CB16B /* Default.png */,
+				42B0C0861826E8F0008CB16B /* Default~iphone.png */,
+				42B0C0871826E8F0008CB16B /* Default-568h@2x.png */,
+				55B3422A179EDFA5004283AD /* logo57x57.png */,
+				42B0C0931826F3F5008CB16B /* logo114x114.png */,
+				42B0C0971827C93E008CB16B /* logo120x120.png */,
+				552FE25217A001B70053EB9D /* knivoggaffel.png */,
+				552FE25417A002170053EB9D /* home.png */,
+			);
+			name = "App-bilder";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5575CB4B1743911800FC0243 /* HverdagsVeggis */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5575CB7D1743911800FC0243 /* Build configuration list for PBXNativeTarget "HverdagsVeggis" */;
+			buildPhases = (
+				5575CB481743911800FC0243 /* Sources */,
+				5575CB491743911800FC0243 /* Frameworks */,
+				5575CB4A1743911800FC0243 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HverdagsVeggis;
+			productName = HverdagsVeggisTest4;
+			productReference = 5575CB4C1743911800FC0243 /* HverdagsVeggis.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5575CB441743911800FC0243 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = Veggis;
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "Gudband Tandberg";
+				TargetAttributes = {
+					5575CB4B1743911800FC0243 = {
+						DevelopmentTeam = 928ALZBPY7;
+					};
+				};
+			};
+			buildConfigurationList = 5575CB471743911800FC0243 /* Build configuration list for PBXProject "HverdagsVeggis" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				nb,
+			);
+			mainGroup = 5575CB431743911800FC0243;
+			productRefGroup = 5575CB4D1743911800FC0243 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5575CB4B1743911800FC0243 /* HverdagsVeggis */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5575CB4A1743911800FC0243 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				42B0C07F18266924008CB16B /* tabbouleh.jpg in Resources */,
+				42B0C0A31827C984008CB16B /* burrito.jpg in Resources */,
+				55E35A011753CD3D00599BDD /* Localizable.strings in Resources */,
+				42B0C0881826E8F0008CB16B /* Default.png in Resources */,
+				423CB1601851131D00C48C06 /* bulgursalat.jpg in Resources */,
+				42B0C0C118316874008CB16B /* småbrød.jpg in Resources */,
+				423CB15E1851127C00C48C06 /* crumble.jpg in Resources */,
+				42B0C0C418316874008CB16B /* tomatpotet.jpg in Resources */,
+				423CB162185482EF00C48C06 /* EkstraViewController.xib in Resources */,
+				55B341F1179EDEBE004283AD /* FirstNavigationViewController.xib in Resources */,
+				423CB14E1844A9F400C48C06 /* rissalat.JPG in Resources */,
+				42F46A5F183BE9950079DAAF /* lasagne.jpg in Resources */,
+				55B341F2179EDEBE004283AD /* ForklaringViewController.xib in Resources */,
+				42B0C0BF18316874008CB16B /* potetsalat.jpg in Resources */,
+				423CB1461843E2C200C48C06 /* granola.jpg in Resources */,
+				55B341F3179EDEBE004283AD /* FremgangsmaateVC.xib in Resources */,
+				55B341F4179EDEBE004283AD /* HovedOppskriftVC.xib in Resources */,
+				42B0C0A91827C984008CB16B /* lburger.jpg in Resources */,
+				55B341F5179EDEBE004283AD /* IngrediensVC.xib in Resources */,
+				42B0C08E1826E958008CB16B /* Bakgrunnsbilde.png in Resources */,
+				42B0C0981827C93E008CB16B /* logo120x120.png in Resources */,
+				423CB1441843E2C200C48C06 /* spinatsuppe.jpg in Resources */,
+				423CB15C1851127700C48C06 /* vårruller.jpg in Resources */,
+				55B341F6179EDEBE004283AD /* OppskriftTabellViewController.xib in Resources */,
+				42B0C0BE18316874008CB16B /* hvitløk.jpg in Resources */,
+				42F46A61183BE9950079DAAF /* peanøttnudler.jpg in Resources */,
+				55B341F7179EDEBE004283AD /* OppskriftViewController.xib in Resources */,
+				423CB1481843E30700C48C06 /* kålcurry.jpg in Resources */,
+				55B341F8179EDEBE004283AD /* SecondNavigationViewController.xib in Resources */,
+				55B34230179EDFA5004283AD /* blåbærpai.jpg in Resources */,
+				55B34234179EDFA5004283AD /* grønnsaksburger.jpg in Resources */,
+				55B34239179EDFA5004283AD /* logo57x57.png in Resources */,
+				55B3423A179EDFA5004283AD /* pannekake.jpg in Resources */,
+				42B0C0901826E958008CB16B /* Bakgrunnsbilde-568h@2x.png in Resources */,
+				42B0C08018266924008CB16B /* tahini.jpg in Resources */,
+				55B3423C179EDFA5004283AD /* squashstrimler.jpg in Resources */,
+				42F46A62183BE9950079DAAF /* dandan.jpg in Resources */,
+				42B0C0A41827C984008CB16B /* kikertgryte.jpg in Resources */,
+				552FE25317A001B80053EB9D /* knivoggaffel.png in Resources */,
+				42B0C08A1826E8F0008CB16B /* Default-568h@2x.png in Resources */,
+				423CB15618461F5400C48C06 /* fsquash.jpg in Resources */,
+				42B0C0941826F3F5008CB16B /* logo114x114.png in Resources */,
+				552FE25517A002170053EB9D /* home.png in Resources */,
+				552FE26717A12C210053EB9D /* pannekaker.jpg in Resources */,
+				423CB1581851126700C48C06 /* fpaprika.jpg in Resources */,
+				42B0C0AC1827C984008CB16B /* pitapizza.jpg in Resources */,
+				555483CE17A5793C00D52E21 /* morelltert.jpg in Resources */,
+				42F46A5E183BE9950079DAAF /* gsuppe.jpg in Resources */,
+				555483CF17A5793C00D52E21 /* thaisuppe.jpg in Resources */,
+				42B0C0B418294B59008CB16B /* poire.jpg in Resources */,
+				42B0C0B618316861008CB16B /* grønnkål.jpg in Resources */,
+				42B0C0A61827C984008CB16B /* fsopp.jpg in Resources */,
+				55F3355917ABCB5500C2832A /* bananis.jpg in Resources */,
+				423CB14C1844A91600C48C06 /* bananmuffins.jpg in Resources */,
+				42B0C0B118294B59008CB16B /* moossakaa.jpg in Resources */,
+				42B0C0841826692E008CB16B /* falaffel.jpg in Resources */,
+				42B0C08F1826E958008CB16B /* Bakgrunnsbilde~iphone.png in Resources */,
+				423CB14A1844A90F00C48C06 /* mandel.jpg in Resources */,
+				42B0C0C018316874008CB16B /* quinoasalat.JPG in Resources */,
+				42F46A60183BE9950079DAAF /* thainudler.jpg in Resources */,
+				55B0E1DD17EDF5D300D329D4 /* ravioli.jpg in Resources */,
+				42B0C0891826E8F0008CB16B /* Default~iphone.png in Resources */,
+				55B0E1DF17EDF5E700D329D4 /* skaperen.jpg in Resources */,
+				423CB15A1851126D00C48C06 /* salsa.jpg in Resources */,
+				55B0E1E117EDF9F900D329D4 /* risrett.jpg in Resources */,
+				55B0E1E317EDFA1D00D329D4 /* havregrot.jpg in Resources */,
+				55B0E1E517EDFA2A00D329D4 /* hummus.jpg in Resources */,
+				55B0E1E717EDFA3000D329D4 /* pita.jpg in Resources */,
+				42B0C07C181FFEAB008CB16B /* HjemViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5575CB481743911800FC0243 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				55B34213179EDF32004283AD /* AlleOppskrifteneDataController.m in Sources */,
+				55B34214179EDF32004283AD /* FirstNavigationViewController.m in Sources */,
+				55B34215179EDF32004283AD /* ForklaringViewController.m in Sources */,
+				55B34216179EDF32004283AD /* FremgangsmaateVC.m in Sources */,
+				55B34217179EDF32004283AD /* HjemViewController.m in Sources */,
+				55B34218179EDF32004283AD /* HovedOppskriftVC.m in Sources */,
+				55B34219179EDF32004283AD /* IngrediensVC.m in Sources */,
+				55B3421A179EDF32004283AD /* main.m in Sources */,
+				55B3421B179EDF32004283AD /* OppskriftTabellViewController.m in Sources */,
+				55B3421C179EDF32004283AD /* OppskriftViewController.m in Sources */,
+				55B3421D179EDF32004283AD /* SecondNavigationViewController.m in Sources */,
+				55B3421E179EDF32004283AD /* VeggisAppDelegate.m in Sources */,
+				55B3421F179EDF32004283AD /* VeggisOppskrift.m in Sources */,
+				551AEBCC17D7309200092917 /* EkstraViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		557DA3DD176B798C00D12C4C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				557DA3DC176B798C00D12C4C /* nb */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		55E35A031753CD3D00599BDD /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				55E35A041753CD4000599BDD /* nb */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5575CB7B1743911800FC0243 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		5575CB7C1743911800FC0243 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5575CB7E1743911800FC0243 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "HverdagsVeggis/HverdagsVeggis-Prefix.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/HverdagsVeggis/HverdagsVeggis-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SYSTEM_LIBRARY_DIR)/Frameworks/AVFoundation.framework/Versions/A\"",
+				);
+				PRODUCT_NAME = HverdagsVeggis;
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		5575CB7F1743911800FC0243 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "HverdagsVeggis/HverdagsVeggis-Prefix.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/HverdagsVeggis/HverdagsVeggis-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SYSTEM_LIBRARY_DIR)/Frameworks/AVFoundation.framework/Versions/A\"",
+				);
+				PRODUCT_NAME = HverdagsVeggis;
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5575CB471743911800FC0243 /* Build configuration list for PBXProject "HverdagsVeggis" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5575CB7B1743911800FC0243 /* Debug */,
+				5575CB7C1743911800FC0243 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5575CB7D1743911800FC0243 /* Build configuration list for PBXNativeTarget "HverdagsVeggis" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5575CB7E1743911800FC0243 /* Debug */,
+				5575CB7F1743911800FC0243 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5575CB441743911800FC0243 /* Project object */;
+}
